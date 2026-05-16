@@ -1,0 +1,36 @@
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5
+Flask-Session==0.5.0
+Werkzeug==2.3.7
+
+# ML (updated for Python 3.14)
+numpy>=1.26.4
+scikit-learn>=1.4.2
+scipy>=1.11.4
+
+# NLP
+sentence-transformers>=2.6.1
+
+# OCR / Files
+Pillow>=10.3.0
+pytesseract>=0.3.10
+easyocr>=1.7.1
+PyPDF2>=3.0.1
+pdfplumber>=0.11.0
+python-docx>=1.1.2
+
+# Other
+python-dotenv
+google-generativeai
+
+# DB
+mysql-connector-python==8.3.0
+
+# Utils
+requests==2.31.0
+python-dotenv==1.0.1
+deep-translator==1.11.4
+google-generativeai==0.8.3
+
+# Server
+gunicorn==21.2.0

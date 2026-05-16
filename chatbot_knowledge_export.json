@@ -1,0 +1,1171 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What is MKCE? Tell me about your organization",
+      "answer": "MKCE stands for M. Kumarasamy College of Engineering. It is an autonomous engineering college located in Karur, Tamil Nadu. Established in 2000, it offers undergraduate and postgraduate programs in engineering and technology. The college is affiliated to Anna University and approved by AICTE."
+    },
+    {
+      "id": 2,
+      "question": "Who is the principal of MKCE?",
+      "answer": "Dr. B. S. Murugan, M.E., Ph.D., is the Principal and also a Professor in CSE."
+    },
+    {
+      "id": 3,
+      "question": "Tell me about canteen facilities at MKCE",
+      "answer": "MKCE has a spacious and hygienic canteen facility that provides nutritious food to students and staff. The canteen serves breakfast, lunch, and snacks at affordable prices. It offers both vegetarian and non-vegetarian options. The canteen is located near the main academic block and operates from 8:00 AM to 6:00 PM on all working days."
+    },
+    {
+      "id": 4,
+      "question": "What are the college timings?",
+      "answer": "College timings are 8:45 AM to 4:40 PM on working days."
+    },
+    {
+      "id": 5,
+      "question": "What courses are offered at MKCE?",
+      "answer": "MKCE offers B.E. programs in Computer Science and Engineering, Electronics and Communication Engineering, Electrical and Electronics Engineering, Mechanical Engineering, Civil Engineering, and Information Technology. It also offers M.E. programs in various specializations including VLSI Design, Computer Science, and Structural Engineering."
+    },
+    {
+      "id": 6,
+      "question": "Where is MKCE located?",
+      "answer": "MKCE is located in Karur, Tamil Nadu, India."
+    },
+    {
+      "id": 7,
+      "question": "How can I contact MKCE?",
+      "answer": "You can contact MKCE at: Phone: 04324-250222, Email: principal@mkce.ac.in, Website: www.mkce.ac.in. For admissions: admission@mkce.ac.in. The college office is open from 9:00 AM to 5:00 PM on working days."
+    },
+    {
+      "id": 8,
+      "question": "Tell me about library facilities at MKCE",
+      "answer": "MKCE has a well-stocked central library with over 50,000 books, journals, and digital resources. The library provides access to IEEE, Springer, and other online databases. It has a digital library section, reading halls, and a book bank scheme for economically disadvantaged students. Library hours: 8:00 AM to 8:00 PM on working days."
+    },
+    {
+      "id": 9,
+      "question": "What are the hostel facilities at MKCE?",
+      "answer": "MKCE provides separate hostel facilities for boys and girls with well-furnished rooms, Wi-Fi connectivity, 24/7 security, and mess facilities. The hostels have common rooms, gyms, and recreational areas. Wardens are available round the clock for student safety and discipline."
+    },
+    {
+      "id": 10,
+      "question": "Tell me about placement cell at MKCE",
+      "answer": "MKCE has an active placement cell that organizes campus recruitment drives, training programs, and career guidance sessions. Top companies like TCS, Infosys, Wipro, Cognizant, and many core companies visit the campus for recruitment. The placement cell also provides soft skills training and interview preparation workshops."
+    },
+    {
+      "id": 11,
+      "question": "What is MKCE? Tell me about college basic information",
+      "answer": "🏫 M. Kumarasamy College of Engineering (MKCE)\n\n📍 Location: Karur, Tamil Nadu\n📅 Established: 2000\n🏛️ Affiliation: Anna University\n✅ Approval: AICTE\n🎓 TNEA Code: 2608\n🌐 Website: https://www.mkce.ac.in\n\nMKCE is an autonomous engineering college offering quality education in various engineering disciplines."
+    },
+    {
+      "id": 12,
+      "question": "Where is CSE department located?",
+      "answer": "CSE (Computer Science Engineering) department is located on the Ground Floor of Dr. APJ Abdul Kalam Block, Room 009."
+    },
+    {
+      "id": 13,
+      "question": "Where is ECE department?",
+      "answer": "ECE (Electronics and Communication Engineering) department is located on the Second Floor of Dr. APJ Abdul Kalam Block, Rooms 239 and 301."
+    },
+    {
+      "id": 14,
+      "question": "Where is EIE department?",
+      "answer": "EIE (Electronics and Instrumentation Engineering) department is located in Room 314 of Dr. APJ Abdul Kalam Block."
+    },
+    {
+      "id": 15,
+      "question": "Where is IT department?",
+      "answer": "IT (Information Technology) department is located on the Second Floor of Dr. S Radhakrishnan Block."
+    },
+    {
+      "id": 16,
+      "question": "Where is Mechanical department?",
+      "answer": "Mechanical Engineering department is located on the First Floor of Dr. S Radhakrishnan Block."
+    },
+    {
+      "id": 17,
+      "question": "Where is Civil department?",
+      "answer": "Civil Engineering department is located on the Ground Floor of Dr. S Radhakrishnan Block."
+    },
+    {
+      "id": 18,
+      "question": "Where is MBA department?",
+      "answer": "MBA department is located on the First Floor of Dr. S Radhakrishnan Block."
+    },
+    {
+      "id": 19,
+      "question": "Where is AI and DS department?",
+      "answer": "AI & DS (Artificial Intelligence and Data Science) department is located on the Third Floor of Dr. S Radhakrishnan Block."
+    },
+    {
+      "id": 20,
+      "question": "Where is library located?",
+      "answer": "📚 Library is located in Room 027, Ground Floor of Dr. APJ Abdul Kalam Block. There is also a PG Library in Dr. S Radhakrishnan Block."
+    },
+    {
+      "id": 21,
+      "question": "Where is principal office?",
+      "answer": "🏢 Principal Office is located on the First Floor of Dr. APJ Abdul Kalam Block."
+    },
+    {
+      "id": 22,
+      "question": "Where is administrative office?",
+      "answer": "🏢 Administrative Office is located in Room 101 on the First Floor of Dr. APJ Abdul Kalam Block."
+    },
+    {
+      "id": 23,
+      "question": "Where is admission office?",
+      "answer": "🏢 Admission Office is located in Room 104 on the First Floor of Dr. APJ Abdul Kalam Block."
+    },
+    {
+      "id": 24,
+      "question": "Where is placement cell?",
+      "answer": "🏢 Placement Cell is located on the First Floor of Dr. APJ Abdul Kalam Block."
+    },
+    {
+      "id": 25,
+      "question": "Where is COE office?",
+      "answer": "🏢 COE (Controller of Examinations) Office is located in Room 106 on the First Floor of Dr. APJ Abdul Kalam Block."
+    },
+    {
+      "id": 26,
+      "question": "Where is medical centre?",
+      "answer": "🏥 Medical Centre is located in Room 003, Ground Floor of Dr. APJ Abdul Kalam Block."
+    },
+    {
+      "id": 27,
+      "question": "Where are seminar halls?",
+      "answer": "🏛️ Seminar Halls Location:\n• Sir CV Raman Hall → Room 004 (Ground Floor, APJ Block)\n• GD Naidu Hall → Room 005 (Ground Floor, APJ Block)\n• Valluvar Hall → Room 103 (First Floor, APJ Block)\n• Bharathiar Hall → Room 218 (Second Floor, APJ Block)\n• Visvesvaraya Hall → Dr. S Radhakrishnan Block\n• Vivekananda Hall → First Floor, Radhakrishnan Block"
+    },
+    {
+      "id": 28,
+      "question": "Where are lecture halls?",
+      "answer": "📍 Lecture Halls:\n• LH 013, 014 → Right side\n• LH 017, 018, 019, 024 → Left side"
+    },
+    {
+      "id": 29,
+      "question": "Where is gents washroom?",
+      "answer": "🚻 Gents Washroom is located in Room 020."
+    },
+    {
+      "id": 30,
+      "question": "Tell me about canteen menu food items prices",
+      "answer": "🍽️ CANTEEN MENU (Best Canteen)\n\n🍛 South Indian Items:\n• Idly (1 set) – ₹12\n• Poori – ₹15\n• Pongal – ₹40\n• Vadai – ₹5\n\n🍽️ Meals & Rice:\n• Meals – ₹60\n• Chicken Briyani – ₹70\n• Tomato Rice – ₹50\n• Lemon Rice – ₹50\n• Curd Rice – ₹30\n\n🍜 Noodles:\n• Veg Noodles – ₹50\n• Egg Noodles – ₹55\n• Chicken Noodles – ₹60\n• Mushroom Noodles – ₹55\n\n🍗 Chicken Items:\n• Chilly Chicken – ₹60\n• Pepper Chicken – ₹80\n• Grill Chicken – ₹360\n• Andhra Chicken – ₹70\n\n🍄 Veg Items:\n• Mushroom Chilly – ₹45\n• Paneer Butter Masala – ₹110\n• Cauliflower Manchurian – ₹55\n\n🍳 Egg Items:\n• Omelette – ₹15\n• Egg Fries – ₹30"
+    },
+    {
+      "id": 31,
+      "question": "Tell me about relax cafeteria drink menu",
+      "answer": "🥤 RELAX CAFETERIA (Drink Menu)\n\n🥛 Milkshakes (₹30):\n• Chocolate\n• Rosemilk\n• Pista\n• Strawberry\n• Butterscotch\n• Vanilla\n• Pineapple\n• Badam\n\n☕ Beverages:\n• Cold Coffee – ₹45\n• Cold Boost – ₹45\n• Cold Horlicks – ₹45\n• Oreo Milkshake – ₹35\n\n🍹 Fresh Juices:\n• Lemon – ₹20\n• Watermelon – ₹25\n• Musk Melon – ₹35\n• Apple – ₹50\n• Pomegranate – ₹65"
+    },
+    {
+      "id": 32,
+      "question": "What are gents hostel mess timings?",
+      "answer": "🏨 GENTS HOSTEL MESS TIMING\n\n🗓️ Working Days:\n• Breakfast: 6:45 AM – 8:25 AM\n• Lunch: 12:10 PM – 2:00 PM\n• Snacks: 4:45 PM – 6:00 PM\n• Dinner: 6:45 PM – 7:50 PM\n\n🎉 Holidays:\n• Breakfast: 6:45 AM – 9:30 AM\n• Lunch: 12:10 PM – 2:30 PM\n• Snacks: 4:45 PM – 6:00 PM\n• Dinner: 6:45 PM – 7:50 PM"
+    },
+    {
+      "id": 33,
+      "question": "How to get bonafide certificate?",
+      "answer": "📄 BONAFIDE CERTIFICATE DETAILS\n\n📧 Email: bonafide@mkce.ac.in\n\nRequired Details:\n• Name\n• Roll Number\n• Father Name\n• Counseling Type\n• First Graduate (Yes/No)\n• Hostel / Day Scholar / Bus\n• Purpose of Bonafide\n\nScholarship Details:\n• Management Scholarship\n• Community Scholarship\n• PMSS SC/ST\n• 7.5% Govt School Quota\n\nLoan Details (if applicable):\n• Bank Name\n• Branch\n• IFSC Code\n• District"
+    },
+    {
+      "id": 34,
+      "question": "Where is chairman office?",
+      "answer": "🏢 Chairman Office is located on the Ground Floor of Dr. APJ Abdul Kalam Block."
+    },
+    {
+      "id": 35,
+      "question": "Where is trust office?",
+      "answer": "🏢 Trust Office is located on the Ground Floor of Dr. APJ Abdul Kalam Block."
+    },
+    {
+      "id": 36,
+      "question": "Where is HR office?",
+      "answer": "🏢 HR Office is located on the First Floor of Dr. APJ Abdul Kalam Block."
+    },
+    {
+      "id": 37,
+      "question": "Where is IQAC office?",
+      "answer": "🏢 IQAC Office is located in Room 105 on the First Floor of Dr. APJ Abdul Kalam Block."
+    },
+    {
+      "id": 38,
+      "question": "Where is CSBS department?",
+      "answer": "CSBS (Computer Science and Business Systems) department is located on the Third Floor of Dr. APJ Abdul Kalam Block."
+    },
+    {
+      "id": 39,
+      "question": "Where is AI and Data Science department?",
+      "answer": "AI & DS (Artificial Intelligence and Data Science) department is located on the Third Floor of Dr. S Radhakrishnan Block."
+    },
+    {
+      "id": 40,
+      "question": "Where is Science and Humanities department?",
+      "answer": "S&H (Science and Humanities) department is located on the Third Floor of Dr. S Radhakrishnan Block."
+    },
+    {
+      "id": 41,
+      "question": "What is MKCE? Tell me about college overview",
+      "answer": "🏫 M. Kumarasamy College of Engineering (MKCE)\n\n📍 Location: Karur, Tamil Nadu, India\n📍 GPS: Lat 11.055287\n📅 Established: 2000\n🏛️ Type: Autonomous Engineering Institution\n🏛️ Affiliation: Anna University, Chennai\n✅ Approval: AICTE, New Delhi\n🏛️ Trust: M. Kumarasamy Health and Educational Trust\n🎓 TNEA Code: 2608\n🌐 Website: https://www.mkce.ac.in\n🏷️ Tagline: \"The Best Engineering College With 25 Years of Excellence\"\n🔧 Maintained By: Technology Innovation Hub–MKCE\n📊 Years of Excellence: 25 Years (as of 2025)"
+    },
+    {
+      "id": 42,
+      "question": "What is KR Connect?",
+      "answer": "🔗 KR CONNECT - Main ERP Portal of MKCE\n\n🌐 URL: https://krconnect.mkce.ac.in/\n\nFeatures:\n• Academic and administrative management\n• Students can check attendance and marks\n• Shows mentor (faculty) details\n• Used for bus fee payment\n• Allows feedback submission (course/faculty)\n• Provides student services (STC) and requests\n• Displays academic updates, timetable, and notifications\n• Helps faculty track student performance\n• Acts as a centralized digital system for the college"
+    },
+    {
+      "id": 43,
+      "question": "Who is the founder of MKCE?",
+      "answer": "👨‍💼 Founder — Thiru. M. Kumarasamy\n\n• Philanthropist; popularly known as \"Maniyakar\" in the Karur region\n• Former Munisif (Village Head) of Thalavapalayam Village for over 20 years\n• Founded MKCE in 2000 to provide affordable engineering education to rural students\n• Other interests: Agriculture, Transport Operations, Poultry Farming\n• MKCE is his dream project for rural upliftment through technical education"
+    },
+    {
+      "id": 44,
+      "question": "Who is the chairman of MKCE?",
+      "answer": "Dr. K. Ramakrishnan is the Chairman and Secretary of MKCE."
+    },
+    {
+      "id": 45,
+      "question": "Who is the executive director of MKCE?",
+      "answer": "👨‍💼 Executive Director — Dr. S. Kuppusamy\n\n• B.Sc. Electronics, Erode Arts College, Erode\n• MBA, Kongu Engineering College, Perundurai\n• Ph.D. in Management, Bharathiar University, Coimbatore\n• Cleared NET and SLET; qualified ISO Certification Auditor\n• Prior: Lecturer to Professor & HOD at Kongu Arts and Science College, Erode\n• Member of Board of Studies, Senate, and Inspection Commission at Bharathiar University\n• Offered ISO Certification consultancy to various organizations"
+    },
+    {
+      "id": 46,
+      "question": "Who is the principal of MKCE?",
+      "answer": "👨‍🏫 Principal — Dr. B. S. Murugan (M.E., Ph.D.)\n\n• Also serves as Professor in CSE Department\n• Promotes collaborative, interactive learning\n• Committed to inclusive, diverse campus community\n• Supports co-curricular and extracurricular development alongside academics"
+    },
+    {
+      "id": 47,
+      "question": "What is the vision of MKCE?",
+      "answer": "🎯 College Vision:\n\n\"To emerge as a leader among the top institutions in the field of technical education."
+    },
+    {
+      "id": 48,
+      "question": "What is the mission of MKCE?",
+      "answer": "🎯 College Mission:\n\n1. Produce smart technocrats with empirical knowledge who can surmount global challenges.\n2. Create a diverse, fully-engaged, learner-centric campus environment to provide quality education.\n3. Maintain mutually beneficial partnerships with alumni, industry, and professional associations."
+    },
+    {
+      "id": 49,
+      "question": "What is the quality policy of MKCE?",
+      "answer": "📜 Quality Policy:\n\n\"We, at M/s. M. Kumarasamy College of Engineering are committed to the Society in making our Students to live a purpose as responsible citizens with Ethical Values through provision of Quality Technical Education and continually improve to become a World Class Technological University."
+    },
+    {
+      "id": 50,
+      "question": "Why choose MKCE?",
+      "answer": "✨ Why MKCE?\n\n• Nurtures Creativity & Innovation\n• Student-Centric Campus\n• Experiential Learning (real-world application-based)\n• Comprehensive Teaching (well-rounded curriculum)"
+    },
+    {
+      "id": 51,
+      "question": "What are the key statistics of MKCE?",
+      "answer": "📊 MKCE Key Statistics:\n\n• Proud Alumni: 15,100+\n• Current Students: 4,150+\n• Placed Students: 830+\n• Total Faculty: 280+\n• SCIE/Scopus/WoS Publications: 2,673+\n• UGC Care Journal Publications: 302\n• Book / Book Chapter Publications: 125\n• h-Index (Google Scholar / Scopus): 61 / 53\n• Patents (Published / Registered): 715 / 120\n• Student Publications: 645\n• Conference Publications: 2,530\n• Total Citations (Scopus): 18,090+"
+    },
+    {
+      "id": 52,
+      "question": "What is the contact information of MKCE?",
+      "answer": "📞 MKCE Contact Information:\n\n📞 Administration Phone: 04324-272155 / 04324-270755\n📠 Administration Fax: 04324-272457\n📞 Admission Helpline: 9750356377 / 8754022577\n📧 Admission Email: admission@mkce.ac.in\n📞 Placement & Training: 04324-272155 / 04324-270755\n📧 Placement Email: placement@mkce.ac.in\n📞 EEE HOD Direct: eee@mkce.ac.in / 8754015677\n👨‍💼 Dean of Admissions: Dr. K. Sundararaju — +91 9750356377 / 7540046077"
+    },
+    {
+      "id": 53,
+      "question": "What are the accreditations and rankings of MKCE?",
+      "answer": "🏆 MKCE Accreditations & Rankings:\n\n• NAAC: \"A\" Grade – Cycle 2\n• NBA: Accredited (select programmes, including CSE– Washington Accord / TIER-I)\n• AICTE: Approved, New Delhi\n• Anna University: Affiliated (Autonomous Status)\n• TCS: Accredited\n• NIRF: Ranked (https://mkce.ac.in/nirf.php)\n• ARIIA: Ranked (https://mkce.ac.in/files/ariia.pdf)\n• MBA: IIRF Ranked\n• Teaching Award: CSE Dept., 2015 by Staffordshire University\n• Research Centres: 6 Departments recognized by Anna University"
+    },
+    {
+      "id": 54,
+      "question": "What UG programmes are offered at MKCE?",
+      "answer": "🎓 UG Programmes at MKCE:\n\n1. B.Tech AI & Data Science — 180 seats (NRI: Yes)\n2. B.E. CSE (AI & ML) — 60 seats (NRI: Yes)\n3. B.E. Civil Engineering — 30 seats (NRI: Yes)\n4. B.Tech CS & Business Systems — 60 seats (NRI: Yes)\n5. B.E. Computer Science & Engineering — 180 seats (NRI: Yes)\n6. B.E. Electrical & Electronics Engineering — 120 seats (NRI: Yes)\n7. B.E. Electronics & Communication Engineering — 300 seats (NRI: Yes)\n8. B.Tech Information Technology — 120 seats (NRI: Yes)\n9. B.E. Mechanical Engineering — 90 seats (NRI: Yes)\n10. B.E. Electronics Engg. (VLSI Design & Technology) — 60 seats (NRI: Yes)\n11. B.E. CSE (Cyber Security) — 60 seats (NRI: Yes)\n\n🎓 PG Programmes:\n• Master of Business Administration (MBA) — 120 seats\n• Master of Computer Applications (MCA) — 60 seats\n• M.E. CSE — 12 seats\n• M.E. Communication Systems — 12 seats\n• M.E. Power Systems Engineering — 12 seats\n• M.E. Manufacturing Engineering — 12 seats"
+    },
+    {
+      "id": 55,
+      "question": "What are the student portals at MKCE?",
+      "answer": "🌐 MKCE Student Portals & Links:\n\n• CAMS (Exam & Curriculum): http://www.camsmkce.in\n• KR Connect (Academic): http://krconnect.mkce.ac.in/\n• Smart Hostel: http://hostel.mkce.ac.in/\n• Teaching Learning Centre: http://tlc.krgi.in\n• Library OPAC: http://10.0.7.150/impreserp/OPAC/Default.aspx\n• Certificate Verification: https://mkce.directverify.in/student/index.html\n• Blog: http://mkce.ac.in/blog\n• Alumni Portal: http://alumni.mkce.ac.in/\n• Online Grievance: Google Form on college website\n\n💳 Fee Payment:\n• New Students: https://easypay.axis.bank.in (mid=NDg0MjY%3D)\n• Existing Students: https://easypay.axis.bank.in (mid=NDg0NDY%3D)\n\n📝 Admission:\n• Apply: https://forms.gle/EGoB193DkB9tu3ts8\n• TNEA Code: 2608"
+    },
+    {
+      "id": 56,
+      "question": "Tell me about placement at MKCE",
+      "answer": "💼 MKCE Placement & Training:\n\nTraining Modules (CSD–Career Skill Development):\n• Aptitude Test Skills\n• Group Discussion (GD) Handling Techniques\n• Professional Development\n• Interview Handling Skills\n• Personality Development\n\nPlacement Infrastructure:\n• Testing Halls | Conference & PPT Halls | Written & Online Test Centres\n• Group Discussion Hall | Interview Panel Rooms | Video Conference Facility | Placement Lounge\n\nRecent Recruiters (2024-26):\nInfosys | LTIMindtree | Hexaware | ZOHO | TCS | IndiaMart | SkipperX | Technosafe Trading | MCoreta | Hitachi Japan | OSG Japan | HashedIn | NXT SYNC | EEE PROMHO | Capgemini | Accenture | Wipro | IBM | CTS | Inautix | PurpleSlate | Infoview | Odessa | Fujitsu | Kawasaki Heavy Industries | Nissan | Mitsubishi Hitachi | NGK Spark Plug | Toyota\n\nJapan Placements:\nMKCE students have been placed in Japan-based companies and also pursued higher studies at Shizuoka University on scholarships through the Sakura Science Program (JST)."
+    },
+    {
+      "id": 57,
+      "question": "Tell me about research at MKCE",
+      "answer": "🔬 MKCE Research & Development:\n\n• R&D Cell Established: 2012 (Governing Council decision)\n• 6 Departments recognized as Anna University Research Centres\n• Ph.D. Fellowship: ₹10,000/month for full-time scholars\n• Research Progress Review: Every 6 months before review committee\n\nFunded Projects:\n• SERB CRG: ₹13.07 Lakh (Dr. S. Geeitha, IT)\n• SERB TARE: ₹18.30 Lakh (Dr. V. Sivakumar)\n• MSME Grant: ₹28 Lakh (2023-24), ₹48 Lakh (2024-25)\n• TNSCST: ₹60,000 (5 projects, 2023-24)\n• Naan Mudhalvan State Govt: ₹30,000 (3 projects)\n\nPublication Incentives:\n• Q4: ₹5,000\n• Q3: ₹7,500\n• Q2: ₹10,000\n• Q1: ₹15,000\n• Q1 (Impact Factor > 10): ₹20,000"
+    },
+    {
+      "id": 58,
+      "question": "What are the campus facilities at MKCE?",
+      "answer": "🏫 MKCE Campus Facilities:\n\nAcademic:\n• Smart Classrooms (ICT-enabled) | Drawing Hall | IT Labs | Multiple Engineering Labs\n• Technology Learning Centre (TLC) | Media Centre\n\nLibrary:\n• Physical + Digital Library | Reading Section | Study Cubicles | Automatic Book Issue\n• OPAC: http://10.0.7.150/impreserp/OPAC/Default.aspx\n\nAuditoriums & Halls:\n• Valluvar Hall | G.D. Naidu Hall | Media Centre | Conference Halls\n\nSports:\n• Basketball Court | Tennis Court | Volleyball Court | 3 Fitness Centres / Gyms\n\nHostel:\n• Smart Hostel portal: http://hostel.mkce.ac.in/\n\nTransport:\n• Fleet of buses; city-wide coverage; experienced drivers; speed control; first aid boxes\n• Bus Route PDF: https://www.mkce.ac.in/hostel/bus_route.pdf"
+    },
+    {
+      "id": 59,
+      "question": "Tell me about foreign languages at MKCE",
+      "answer": "🌍 Center for Foreign Languages (CFL):\n\n• Language Taught: Japanese (Nihongo)\n• Levels: N5/Q5 | N4/Q4 | N3/Q3\n• MKCE is an approved JLPT exam centre\n• Prepares students for JLPT and NAT certifications\n\nJLPT Certificate Holders:\n• 2013-2017: N5: 9\n• 2014-2018: N5: 90, N4: 9\n• 2015-2019: N5: 45, N4: 19\n• 2016-2020: N5: 42, N4: 26, N3: 11, N2: 1\n• 2017-2021: N5: 49, N4: 6, N3: 6\n• 2020-2024: N5: 40, N4: 3"
+    },
+    {
+      "id": 60,
+      "question": "What is the TNEA code for MKCE?",
+      "answer": "🎓 TNEA Code: 2608"
+    },
+    {
+      "id": 61,
+      "question": "Does MKCE have NBA accreditation?",
+      "answer": "✅ Yes, MKCE has NBA accreditation for select programmes, including CSE under Washington Accord / TIER-I."
+    },
+    {
+      "id": 62,
+      "question": "Does MKCE have NAAC accreditation?",
+      "answer": "✅ Yes, MKCE has NAAC 'A' Grade – Cycle 2 accreditation."
+    },
+    {
+      "id": 63,
+      "question": "When was MKCE established?",
+      "answer": "MKCE was established in 2000."
+    },
+    {
+      "id": 64,
+      "question": "How many students are currently studying at MKCE?",
+      "answer": "MKCE has more than 4150 current students."
+    },
+    {
+      "id": 65,
+      "question": "How many alumni does MKCE have?",
+      "answer": "MKCE has more than 15100 alumni."
+    },
+    {
+      "id": 66,
+      "question": "How many faculty members are there at MKCE?",
+      "answer": "👨‍🏫 Total Faculty: 280+"
+    },
+    {
+      "id": 67,
+      "question": "What is the Ph.D. stipend at MKCE?",
+      "answer": "💰 Ph.D. Fellowship: ₹10,000 per month for full-time scholars."
+    },
+    {
+      "id": 68,
+      "question": "Does MKCE have research centres?",
+      "answer": "🔬 Yes, 6 Departments are recognized as Anna University Research Centres."
+    },
+    {
+      "id": 69,
+      "question": "What is the internet speed at MKCE?",
+      "answer": "🌐 Internet: 24-hour Wi-Fi, 1 Gbps speed in CSE, EEE labs."
+    },
+    {
+      "id": 70,
+      "question": "How old is MKCE?",
+      "answer": "MKCE has 25 years of excellence, established in the year 2000."
+    },
+    {
+      "id": 71,
+      "question": "Who founded MKCE?",
+      "answer": "MKCE was founded by Thiru. M. Kumarasamy, a philanthropist from Karur region, popularly known as \"Maniyakar.\"\n\nHe was:\n• Former Munisif of Thalavapalayam Village for over 20 years\n• Founded MKCE in 2000 to provide technical education to rural students at affordable cost\n• Primary interests: Agriculture, transport operation, poultry farming, and education"
+    },
+    {
+      "id": 72,
+      "question": "Who is the Chairman of MKCE?",
+      "answer": "👨‍💼 Chairman & Secretary — Dr. K. Ramakrishnan (Son of Founder)\n\n• B.E. Production Engineering, Annamalai University, Tamil Nadu\n• Dynamic leader and role model for students\n• Part of Anna University study team that visited Canadian Universities (2006)\n• Initiated MOU with Infosys Technologies Ltd, Bangalore (via Campus Connect Program)\n• Champion of TIES during his college days (sports achiever)\n• Secured accreditation with TCS for the institution\n• Signed MOUs with prominent local industrial establishments"
+    },
+    {
+      "id": 73,
+      "question": "Who is the Executive Director of MKCE?",
+      "answer": "👨‍💼 Executive Director — Dr. S. Kuppusamy\n\n• B.Sc. Electronics – Erode Arts College, Erode\n• MBA – Kongu Engineering College, Perundurai\n• Ph.D. Management – Bharathiar University, Coimbatore\n• Cleared both NET and SLET\n• Qualified auditor for ISO Certification\n• Former Professor & Head, Dept. of Management Studies, Kongu Arts and Science College, Erode\n• Member of BoS, Inspection Commission, and Senate – Bharathiar University, Coimbatore\n• Provides consultancy for ISO Certification processes"
+    },
+    {
+      "id": 74,
+      "question": "How many students are currently studying at MKCE?",
+      "answer": "MKCE currently has over 4,150 students and 15,100+ proud alumni."
+    },
+    {
+      "id": 75,
+      "question": "Is MKCE autonomous?",
+      "answer": "Yes, MKCE is an Autonomous Institution affiliated to Anna University and approved by AICTE, New Delhi."
+    },
+    {
+      "id": 76,
+      "question": "Is MKCE NAAC accredited?",
+      "answer": "Yes, MKCE has been accredited with 'A' Grade by NAAC (Cycle 2)."
+    },
+    {
+      "id": 77,
+      "question": "How do I apply for admission to MKCE?",
+      "answer": "Apply online at https://forms.gle/EGoB193DkB9tu3ts8 or call 9750356377 / 8754022577."
+    },
+    {
+      "id": 78,
+      "question": "Who is the Dean of Admissions?",
+      "answer": "Dr. K. Sundararaju, M.E., Ph.D., SMIEEE – Contact: +91 9750356377 / 7540046077"
+    },
+    {
+      "id": 79,
+      "question": "What is the total ECE intake?",
+      "answer": "The current intake for B.E. ECE is 300 seats."
+    },
+    {
+      "id": 80,
+      "question": "What is the eligibility for B.E. programmes?",
+      "answer": "10+2 with pass in Physics, Chemistry, and Mathematics."
+    },
+    {
+      "id": 81,
+      "question": "Is lateral entry available?",
+      "answer": "Yes. Lateral entry is available for diploma holders – 3 years / 6 semesters."
+    },
+    {
+      "id": 82,
+      "question": "When was the ECE department started?",
+      "answer": "The ECE department was established in 2000 with an initial intake of 60 students.\n\nIntake History:\n• 2000: 60 students\n• 2005: 120 students\n• 2011: 180 students\n• 2012: 240 students\n• Current: 300 students"
+    },
+    {
+      "id": 83,
+      "question": "Is there a Research Centre in ECE?",
+      "answer": "Yes, the ECE department is a recognized Research Centre by Anna University since 2017."
+    },
+    {
+      "id": 84,
+      "question": "What PG programme is offered in ECE?",
+      "answer": "M.E. Communication Systems with an intake of 12 students (since 2011)."
+    },
+    {
+      "id": 85,
+      "question": "How many semesters are in B.E. ECE?",
+      "answer": "8 semesters (Regular) or 6 semesters (Lateral Entry)."
+    },
+    {
+      "id": 86,
+      "question": "Can I pursue Ph.D. in ECE at MKCE?",
+      "answer": "Yes. The ECE Research Centre recognized by Anna University allows Ph.D. registration. Institutional Fellowship of ₹10,000/month is available for full-time scholars."
+    },
+    {
+      "id": 87,
+      "question": "What professional clubs are in ECE?",
+      "answer": "🏛️ ECE Professional Bodies & Associations:\n\n• Eminence Association – ECE Departmental Technical Association\n• IEEE ComSoc – IEEE Communications Society Student Chapter\n• IETE – Institution of Electronics & Telecommunication Engineers"
+    },
+    {
+      "id": 88,
+      "question": "Does ECE conduct hackathons?",
+      "answer": "Yes! ECE conducts various technical events:\n• 24-Hour Hackathons\n• Make-A-Thon\n• Innovators Hackathon (I2H) 2.0\n• HackFest 2026\n• National-level hackathons\n• 24-Hour ECE Hackathon (Feb 26-27, 2026)"
+    },
+    {
+      "id": 89,
+      "question": "What are the higher study options after B.E. ECE?",
+      "answer": "After completing B.E. ECE at MKCE, students can pursue:\n• M.E. / M.Tech. in ECE-related specializations\n• M.B.A. – Master of Business Administration\n• M.S. – Master of Science (India or Abroad)\n• Competitive Exams: GATE, GRE, GMAT, TOEFL, IELTS"
+    },
+    {
+      "id": 90,
+      "question": "How many faculty members are in ECE?",
+      "answer": "Approximately 42 faculty members including Professors, Associate Professors, and Assistant Professors."
+    },
+    {
+      "id": 91,
+      "question": "Who manages the PCB Design Lab in ECE?",
+      "answer": "Dr. K. Karthikeyan, M.E., Ph.D. is the Lab In-Charge for PCB Design Laboratory."
+    },
+    {
+      "id": 92,
+      "question": "Who handles the Embedded Systems Lab in ECE?",
+      "answer": "Mr. S. Mohanraj, M.E., (Ph.D.) is the Lab In-Charge for Embedded System Design Laboratory."
+    },
+    {
+      "id": 93,
+      "question": "Who is the Lab In-Charge for the Communication Lab?",
+      "answer": "Dr. K. Sivanandam, M.E., Ph.D. is the Lab In-Charge for Analog and Digital Communication Laboratory."
+    },
+    {
+      "id": 94,
+      "question": "When was MKCE's R&D Cell established?",
+      "answer": "The R&D Cell was established in 2012 by decision of the Governing Council."
+    },
+    {
+      "id": 95,
+      "question": "What is the incentive for publishing in a Q1 journal?",
+      "answer": "Publication Incentives for Faculty:\n\n• Q4: ₹5,000\n• Q3: ₹7,500\n• Q2: ₹10,000\n• Q1: ₹15,000\n• Q1 with Impact Factor above 10: ₹20,000"
+    },
+    {
+      "id": 96,
+      "question": "Has MKCE placed students in Japan?",
+      "answer": "Yes. MKCE has Japan placement drives including Hitachi Japan, OSG Japan, and other Japanese companies."
+    },
+    {
+      "id": 97,
+      "question": "What is the placement email?",
+      "answer": "placement@mkce.ac.in"
+    },
+    {
+      "id": 98,
+      "question": "How many students are placed from MKCE?",
+      "answer": "Latest figures report 830+ placed students."
+    },
+    {
+      "id": 99,
+      "question": "Is there a hostel at MKCE?",
+      "answer": "Yes. MKCE has a hostel facility. Access the Smart Hostel portal at http://hostel.mkce.ac.in/"
+    },
+    {
+      "id": 100,
+      "question": "Does MKCE have bus transport?",
+      "answer": "Yes. MKCE provides college bus service from various city locations.\n\n• Coverage: Pick-up from inside and outside the city, including areas near the college\n• Daily Schedule: Same pickup and drop points daily\n• Safety: Experienced drivers, speed control devices, first aid box in all buses\n• Bus Route PDF: https://www.mkce.ac.in/hostel/bus_route.pdf"
+    },
+    {
+      "id": 101,
+      "question": "What are the major auditoriums at MKCE?",
+      "answer": "Valluvar Hall and G.D. Naidu Hall, along with a Media Centre and Technology Learning Centre (TLC)."
+    },
+    {
+      "id": 102,
+      "question": "Does MKCE offer foreign language courses?",
+      "answer": "Yes. MKCE has a Center for Foreign Languages (CFL).\n\n• Language Taught: Japanese (Nihongo)\n• Levels: N5/Q5 | N4/Q4 | N3/Q3\n• MKCE is an approved JLPT exam centre\n• Prepares students for JLPT and NAT certifications"
+    },
+    {
+      "id": 103,
+      "question": "Does MKCE have an Entrepreneurship cell?",
+      "answer": "Yes. MKCE has IEDC (Innovation & Entrepreneurship Development Cell) at https://www.mkce.ac.in/IEDC"
+    },
+    {
+      "id": 104,
+      "question": "How do I pay my college fees?",
+      "answer": "Fees can be paid online through Axis Bank EasyPay:\n\n• New Students: https://easypay.axis.bank.in (mid=NDg0MjY%3D)\n• Existing Students: https://easypay.axis.bank.in (mid=NDg0NDY%3D)"
+    },
+    {
+      "id": 105,
+      "question": "Where can I check my exam schedule or results?",
+      "answer": "Visit http://www.camsmkce.in (CAMS portal)."
+    },
+    {
+      "id": 106,
+      "question": "How can I verify my certificate?",
+      "answer": "Visit https://mkce.directverify.in/student/index.html"
+    },
+    {
+      "id": 107,
+      "question": "How do I raise a grievance at MKCE?",
+      "answer": "Use the Online Grievance Redressal form available on the MKCE website."
+    },
+    {
+      "id": 108,
+      "question": "What is the admission email?",
+      "answer": "admission@mkce.ac.in"
+    },
+    {
+      "id": 109,
+      "question": "What is KR Connect?",
+      "answer": "🔗 KR CONNECT - Student Academic Portal of MKCE\n\n🌐 URL: http://krconnect.mkce.ac.in/\n\nFeatures:\n• Academic and administrative management\n• Check attendance and marks\n• Shows mentor (faculty) details\n• Bus fee payment\n• Feedback submission (course/faculty)\n• Student services (STC) and requests\n• Academic updates, timetable, and notifications\n• Faculty track student performance\n• Centralized digital system for the college"
+    },
+    {
+      "id": 110,
+      "question": "What regulations are followed in ECE?",
+      "answer": "UG Regulation 2023, UG Regulation 2018, and PG Regulation 2019."
+    },
+    {
+      "id": 111,
+      "question": "What is the ECE intake history?",
+      "answer": "ECE Intake History:\n• 2000: 60 students\n• 2005: 120 students  \n• 2011: 180 students\n• 2012: 240 students\n• Current: 300 students (B.E. ECE)\n• M.E. Communication Systems: 12 seats (since 2011)"
+    },
+    {
+      "id": 112,
+      "question": "What are the 12 laboratories in ECE?",
+      "answer": "🔬 ECE Laboratories (12 Labs):\n\n1. Digital Signal Processing Laboratory (Dr. P. Jeyakumar)\n2. Electronic Circuits Laboratory (Dr. R. Rajesh Kanna)\n3. Electronics and Microprocessor Laboratory (Dr. C. Nandagopal)\n4. Engineering Practice Laboratory (Mr. T. Sivakumar)\n5. Linear Integrated Circuits Laboratory (Dr. A. Sridevi)\n6. Microwave and Optical Laboratory (Dr. V. Mariselvam)\n7. Networks Laboratory (Dr. A. Kavitha)\n8. Project Laboratory (Dr. S. Vimalnath)\n9. Analog and Digital Communication Laboratory (Dr. K. Sivanandam)\n10. Embedded System Design Laboratory (Mr. S. Mohanraj)\n11. Research Laboratory (Mr. S. Mohanraj)\n12. PCB Design Laboratory (Dr. K. Karthikeyan)"
+    },
+    {
+      "id": 113,
+      "question": "What are the recent events at MKCE?",
+      "answer": "📅 Recent Events at MKCE (2025-2026):\n\n🏆 Major Events:\n• Orlia 2026 (Annual Fest) – March 20, 2026\n• Project Expo – March 5, 2026\n• HackFest 2026 – January 30, 2026 & February 23, 2026\n• ECE 24-Hour Hackathon – February 26-27, 2026\n• EEE National Level 24-Hour Hackathon cum HackFest – February 6, 2026\n• IQAC Day Celebration – January 27, 2026\n• Republic Day Celebration – January 27, 2026\n• AI in School Education Training Course – January 5, 2026\n• Idea Fusion Competition – December 22, 2025\n• Sports Day – April 1, 2025\n\n📢 Placement News:\n• Technosafe Trading (2025)\n• PROMHO (2026)\n• IndiaMart (2025)\n• SkipperX (2025)\n• Infosys (2025 & 2026)\n• LTIMindtree (2025 & 2026)\n• Hexaware (2025)\n• ZOHO Drive (2025)\n• Hitachi Japan (2025)\n• OSG Japan (2025)"
+    },
+    {
+      "id": 114,
+      "question": "What is MKCE?",
+      "answer": "M. Kumarasamy College of Engineering is an autonomous institution in Karur, Tamil Nadu, affiliated to Anna University and approved by AICTE."
+    },
+    {
+      "id": 115,
+      "question": "What is the TNEA code of MKCE?",
+      "answer": "The TNEA counselling code is 2608."
+    },
+    {
+      "id": 116,
+      "question": "What is MKCE NAAC grade?",
+      "answer": "MKCE is accredited with NAAC A Grade, Cycle 2."
+    },
+    {
+      "id": 117,
+      "question": "How many total faculty members are there in MKCE?",
+      "answer": "MKCE has more than 280 faculty members."
+    },
+    {
+      "id": 118,
+      "question": "Who is the ECE HOD in MKCE?",
+      "answer": "Dr. N. Mahendran, M.E., Ph.D., is the ECE HOD."
+    },
+    {
+      "id": 119,
+      "question": "Who is the CSE HOD in MKCE?",
+      "answer": "Dr. D. Pradeep, M.E., Ph.D., is the CSE HOD."
+    },
+    {
+      "id": 120,
+      "question": "Who is the IT HOD in MKCE?",
+      "answer": "Dr. K. Ravikumar, M.E., Ph.D., is the IT HOD."
+    },
+    {
+      "id": 121,
+      "question": "Who is the EEE HOD in MKCE?",
+      "answer": "Dr. J. Uma, M.E., Ph.D., is the EEE HOD. Contact: 8754015677, eee@mkce.ac.in."
+    },
+    {
+      "id": 122,
+      "question": "Who is the Mechanical HOD in MKCE?",
+      "answer": "Dr. M. Loganathan, M.E., Ph.D., is the Mechanical HOD."
+    },
+    {
+      "id": 123,
+      "question": "Who is the Civil HOD in MKCE?",
+      "answer": "Dr. Balaji G, M.E., Ph.D., is the Civil HOD and Associate Professor and Head."
+    },
+    {
+      "id": 124,
+      "question": "Who is the MBA HOD in MKCE?",
+      "answer": "Dr. P. Vanitha, M.Com., MBA, Ph.D., is the MBA HOD."
+    },
+    {
+      "id": 125,
+      "question": "Who is the MCA HOD in MKCE?",
+      "answer": "Dr. S. Vanithamani, M.C.A., M.Phil., Ph.D., is the MCA HOD."
+    },
+    {
+      "id": 126,
+      "question": "How many laboratories are there in ECE?",
+      "answer": "ECE has 12 laboratories."
+    },
+    {
+      "id": 127,
+      "question": "Is there a VLSI department in MKCE?",
+      "answer": "Yes. MKCE offers B.E. Electronics Engineering (VLSI Design and Technology) with 60 seats."
+    },
+    {
+      "id": 128,
+      "question": "Does EEE have a PG programme?",
+      "answer": "Yes. EEE offers M.E. Power Systems Engineering with 12 seats."
+    },
+    {
+      "id": 129,
+      "question": "What are recent placement companies for MCA students?",
+      "answer": "Recent MCA placements include HashedIn, ZOHO, and NXTSYNC."
+    },
+    {
+      "id": 130,
+      "question": "What language does the CFL teach at MKCE?",
+      "answer": "The Center for Foreign Languages teaches Japanese."
+    },
+    {
+      "id": 131,
+      "question": "Is MKCE an approved JLPT exam centre?",
+      "answer": "Yes, MKCE is an approved JLPT exam centre."
+    },
+    {
+      "id": 132,
+      "question": "What is the internet speed in MKCE labs?",
+      "answer": "1 Gbps Wi-Fi is available, including 24-hour internet availability in key departments."
+    },
+    {
+      "id": 133,
+      "question": "Does Mechanical department have international collaborations?",
+      "answer": "Yes, collaborations include UTP Malaysia and Miami University USA."
+    },
+    {
+      "id": 134,
+      "question": "What software tools are used in EEE?",
+      "answer": "EEE uses MATLAB, Mi-Power, AU Power, ICT Circuit Tool, and LabVIEW."
+    },
+    {
+      "id": 135,
+      "question": "What are the MBA MoUs in MKCE?",
+      "answer": "MBA MoUs include EKARUP, IIMBx, NSE, PUPA, VANAPRASTHA, RJS, and EPC."
+    },
+    {
+      "id": 136,
+      "question": "What is KOLOZ in MKCE?",
+      "answer": "KOLOZ is the technical magazine of the MCA department."
+    },
+    {
+      "id": 137,
+      "question": "What are JANANAM and IPSUM?",
+      "answer": "JANANAM and IPSUM are annual management meets conducted by the MBA department."
+    },
+    {
+      "id": 138,
+      "question": "Can students pursue Ph.D. at MKCE?",
+      "answer": "Yes. Six departments are recognized as Anna University research centres."
+    },
+    {
+      "id": 139,
+      "question": "What is the Ph.D. fellowship amount at MKCE?",
+      "answer": "INR 10000 per month for full-time scholars."
+    },
+    {
+      "id": 140,
+      "question": "How can I pay fees in MKCE?",
+      "answer": "Fees can be paid through Axis Bank EasyPay links for new and existing students."
+    },
+    {
+      "id": 141,
+      "question": "How do I check exam results in MKCE?",
+      "answer": "Use CAMS portal: http://www.camsmkce.in"
+    },
+    {
+      "id": 142,
+      "question": "How do I verify my certificate from MKCE?",
+      "answer": "Use https://mkce.directverify.in/student/index.html"
+    },
+    {
+      "id": 143,
+      "question": "How do I apply for admission in MKCE?",
+      "answer": "Apply via https://forms.gle/EGoB193DkB9tu3ts8 or contact admission helpline numbers."
+    },
+    {
+      "id": 144,
+      "question": "What sports facilities are available in MKCE?",
+      "answer": "Basketball, tennis, volleyball courts, and 3 fitness centres are available."
+    },
+    {
+      "id": 145,
+      "question": "Is hostel facility available at MKCE?",
+      "answer": "Yes. Hostel portal: http://hostel.mkce.ac.in/"
+    },
+    {
+      "id": 146,
+      "question": "Is bus transport available in MKCE?",
+      "answer": "Yes, city-wide bus transport is available. Route file: https://www.mkce.ac.in/hostel/bus_route.pdf"
+    },
+    {
+      "id": 147,
+      "question": "How can I raise a grievance in MKCE?",
+      "answer": "Use the online grievance redressal form available on the MKCE website."
+    },
+    {
+      "id": 148,
+      "question": "Which professional bodies are active in ECE?",
+      "answer": "Eminence Association, IEEE ComSoc, and IETE."
+    },
+    {
+      "id": 149,
+      "question": "Which professional bodies are active in EEE?",
+      "answer": "ISTE and IEEE Student Chapter."
+    },
+    {
+      "id": 150,
+      "question": "Which professional bodies are active in Civil Engineering?",
+      "answer": "IV, IE, IEEE, and ISTE."
+    },
+    {
+      "id": 151,
+      "question": "What is CSE NBA status in MKCE?",
+      "answer": "CSE is NBA accredited under Engineering Tier-I and Washington Accord."
+    },
+    {
+      "id": 152,
+      "question": "Did MKCE receive a teaching award?",
+      "answer": "Yes. CSE received the Staffordshire University Teaching Award in Engineering in 2015."
+    },
+    {
+      "id": 153,
+      "question": "What are MSME grants received by MKCE?",
+      "answer": "MSME grants include INR 28 lakh for 2023-24 and INR 48 lakh for 2024-25."
+    },
+    {
+      "id": 154,
+      "question": "What is the MKCE admission email?",
+      "answer": "admission@mkce.ac.in"
+    },
+    {
+      "id": 155,
+      "question": "What is the MKCE placement email?",
+      "answer": "placement@mkce.ac.in"
+    },
+    {
+      "id": 156,
+      "question": "What is the MKCE administration phone number?",
+      "answer": "04324-272155 / 04324-270755"
+    },
+    {
+      "id": 157,
+      "question": "What is the full name of MKCE?",
+      "answer": "The full name is M. Kumarasamy College of Engineering."
+    },
+    {
+      "id": 158,
+      "question": "What is the MKCE website?",
+      "answer": "https://www.mkce.ac.in"
+    },
+    {
+      "id": 159,
+      "question": "What is the MKCE tagline?",
+      "answer": "The Best Engineering College With 25 Years of Excellence."
+    },
+    {
+      "id": 160,
+      "question": "What are the UG programmes in MKCE?",
+      "answer": "UG programmes include B.E./B.Tech in AI and DS, CSE, CSE AI and ML, Civil, CSBS, EEE, ECE, IT, Mechanical, VLSI, and CSE Cyber Security."
+    },
+    {
+      "id": 161,
+      "question": "What are the PG programmes in MKCE?",
+      "answer": "PG programmes include MBA, MCA, M.E. CSE, M.E. Communication Systems, M.E. Power Systems Engineering, and M.E. Manufacturing Engineering."
+    },
+    {
+      "id": 162,
+      "question": "How many seats are available in B.Tech AI and DS?",
+      "answer": "180 seats."
+    },
+    {
+      "id": 163,
+      "question": "How many seats are available in B.E. CSE?",
+      "answer": "180 seats."
+    },
+    {
+      "id": 164,
+      "question": "How many seats are available in B.E. ECE?",
+      "answer": "300 seats."
+    },
+    {
+      "id": 165,
+      "question": "How many seats are available in B.Tech IT?",
+      "answer": "120 seats."
+    },
+    {
+      "id": 166,
+      "question": "How many seats are available in MBA?",
+      "answer": "120 seats."
+    },
+    {
+      "id": 167,
+      "question": "How many seats are available in MCA?",
+      "answer": "60 seats."
+    },
+    {
+      "id": 168,
+      "question": "What is KR Connect portal URL?",
+      "answer": "http://krconnect.mkce.ac.in/"
+    },
+    {
+      "id": 169,
+      "question": "What is CAMS portal URL?",
+      "answer": "http://www.camsmkce.in"
+    },
+    {
+      "id": 170,
+      "question": "What is MKCE Smart Hostel portal URL?",
+      "answer": "http://hostel.mkce.ac.in/"
+    },
+    {
+      "id": 171,
+      "question": "What is MKCE Teaching Learning Centre URL?",
+      "answer": "http://tlc.krgi.in"
+    },
+    {
+      "id": 172,
+      "question": "What is the MKCE library OPAC URL?",
+      "answer": "http://10.0.7.150/impreserp/OPAC/Default.aspx"
+    },
+    {
+      "id": 173,
+      "question": "What is the MKCE alumni portal URL?",
+      "answer": "http://alumni.mkce.ac.in/"
+    },
+    {
+      "id": 174,
+      "question": "What are major recruiters for MKCE placements?",
+      "answer": "Recruiters include Infosys, LTIMindtree, Hexaware, Zoho, TCS, Capgemini, Accenture, Wipro, IBM, CTS, and several Japan-based companies."
+    },
+    {
+      "id": 175,
+      "question": "Does MKCE support Japan placements?",
+      "answer": "Yes. Students are placed in Japanese companies and also pursue higher studies through Sakura Science pathways."
+    },
+    {
+      "id": 176,
+      "question": "Where is RK block in MKCE?",
+      "answer": "RK block refers to Dr. S. Radhakrishnan Block in MKCE. It has Civil Engineering on the Ground Floor, Mechanical Engineering and MBA on the First Floor, IT on the Second Floor, and AIDS and AIML on the Third Floor."
+    },
+    {
+      "id": 177,
+      "question": "Where is Dr. S. Radhakrishnan Block?",
+      "answer": "Dr. S. Radhakrishnan Block is one of the main academic blocks in MKCE campus and hosts Civil Engineering, Mechanical Engineering, MBA, IT, AIDS, and AIML across its floors."
+    },
+    {
+      "id": 178,
+      "question": "What departments are in APJ Block?",
+      "answer": "Dr. APJ Abdul Kalam Block has CSE on the Ground Floor, EEE on the First Floor, ECE on the Second Floor, and CSBS on the Third Floor."
+    },
+    {
+      "id": 179,
+      "question": "What departments are in RK Block?",
+      "answer": "Dr. S. Radhakrishnan Block has Civil Engineering on the Ground Floor, Mechanical Engineering and MBA on the First Floor, IT on the Second Floor, and AIDS and AIML on the Third Floor."
+    },
+    {
+      "id": 180,
+      "question": "Where is ECE department in MKCE?",
+      "answer": "ECE department is on the Second Floor of Dr. APJ Abdul Kalam Block."
+    },
+    {
+      "id": 181,
+      "question": "Where are the ECE classrooms?",
+      "answer": "ECE classrooms are in Rooms 202, 203, 204, 208, 209, 210, 211, 213, 214, 215, 222, 224, 225, 229, and 232, along with the associated ECE sections in the Second Floor of Dr. APJ Abdul Kalam Block."
+    },
+    {
+      "id": 182,
+      "question": "Where is ECE Staff Room 1?",
+      "answer": "ECE Staff Room 1 is in Room 205."
+    },
+    {
+      "id": 183,
+      "question": "Where is ECE Staff Room 2?",
+      "answer": "ECE Staff Room 2 is in Room 212."
+    },
+    {
+      "id": 184,
+      "question": "Where is ECE Staff Room 3?",
+      "answer": "ECE Staff Room 3 is in Room 230."
+    },
+    {
+      "id": 185,
+      "question": "Where is the ECE HOD cabin?",
+      "answer": "The ECE HOD Cabin is in Room 239. The HOD is Mr. Mahendran."
+    },
+    {
+      "id": 186,
+      "question": "Where is the Optical and Microwave Lab?",
+      "answer": "The Optical and Microwave Lab is in Room 201. In-charge: Mrs. Revathi, 9965569714, revathig.ece@mkce.ac.in."
+    },
+    {
+      "id": 187,
+      "question": "Where is the Embedded System Design Lab?",
+      "answer": "The Embedded System Design Lab is in Room 207. In-charge: Mr. Mohanraj, 9976775159, mohanrajs.ece@mkce.ac.in."
+    },
+    {
+      "id": 188,
+      "question": "Where is the DSP Lab?",
+      "answer": "The DSP Lab is in Room 217. In-charge: Mr. JeyaKumar P, 9994723025, jeyakumarp.ece@mkce.ac.in."
+    },
+    {
+      "id": 189,
+      "question": "Where is the ECE Library?",
+      "answer": "The ECE Library is in Room 237. Staff: Mr. Sundarapandi."
+    },
+    {
+      "id": 190,
+      "question": "Where is the Women Empowerment Cell in ECE?",
+      "answer": "The Women Empowerment Cell is in Room 216. Staff: Mrs. Pushpalatha, Mrs. Rakha Sudha, and Mrs. Vaidegi."
+    },
+    {
+      "id": 191,
+      "question": "Where is the RO drinking water in ECE?",
+      "answer": "RO drinking water is available opposite Room 209 and opposite Room 232."
+    },
+    {
+      "id": 192,
+      "question": "Is a lift available near ECE?",
+      "answer": "Yes. A lift is available opposite Room 202."
+    },
+    {
+      "id": 193,
+      "question": "Where is the ECE board room?",
+      "answer": "The ECE Board Room is in Room 218."
+    },
+    {
+      "id": 194,
+      "question": "Where is III ECE A section?",
+      "answer": "III ECE A section is in Room 210 and Room 225 in the Second Floor of Dr. APJ Abdul Kalam Block."
+    },
+    {
+      "id": 195,
+      "question": "Where is III ECE B section?",
+      "answer": "III ECE B section is in Room 211 and Room 224 in the Second Floor of Dr. APJ Abdul Kalam Block."
+    },
+    {
+      "id": 196,
+      "question": "Where is III ECE C section?",
+      "answer": "III ECE C section is in Room 213 in the Second Floor of Dr. APJ Abdul Kalam Block."
+    },
+    {
+      "id": 197,
+      "question": "Where is III ECE D section?",
+      "answer": "III ECE D section is in Room 214 in the Second Floor of Dr. APJ Abdul Kalam Block."
+    }
+  ],
+  "documents": [
+    {
+      "id": 1,
+      "title": "Mkce Details",
+      "filename": "Mkce Details.pdf",
+      "content": "File uploaded: Mkce Details.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Mkce Full Data 1",
+      "filename": "MKCE_Full_Knowledge_Base_FINAL.pdf",
+      "content": "File uploaded: MKCE_Full_Knowledge_Base_FINAL.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Mkce Full Data 2",
+      "filename": "MKCE_FULL_DATA.pdf",
+      "content": "File uploaded: MKCE_FULL_DATA.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Dr. APJ Abdul Kalam Block - Complete Information",
+      "filename": null,
+      "content": "🔷 Dr. APJ Abdul Kalam Block\n\nGround Floor:\n• Chairman Office\n• Trust Office\n• Library (Room 027)\n• Medical Centre (Room 003)\n• Sir CV Raman Hall (Room 004)\n• GD Naidu Hall (Room 005)\n• CSE Department (Room 009)\n\nFirst Floor:\n• Principal Office\n• Administrative Office (Room 101)\n• HR Office\n• Placement Cell\n• Admission Office (Room 104)\n• COE Office (Room 106)\n• IQAC Office (Room 105)\n• Valluvar Hall (Room 103)\n• EEE Department\n\nSecond Floor:\n• Bharathiar Hall (Room 218)\n• Women Empowerment Cell\n• ECE Department (Rooms 239, 301)\n\nThird Floor:\n• CSBS Department\n• Technology Innovation Hub\n• EIE Department (Room 314)"
+    },
+    {
+      "id": 5,
+      "title": "Dr. S Radhakrishnan Block - Complete Information",
+      "filename": null,
+      "content": "🔷 Dr. S Radhakrishnan Block\n\nGround Floor:\n• Executive Director Office\n• PG Library\n• Civil Department\n• Visvesvaraya Hall\n\nFirst Floor:\n• Mechanical Department\n• MBA Department\n• Vivekananda Hall\n\nSecond Floor:\n• IT Department\n• Seminar Hall\n\nThird Floor:\n• AI & DS Department\n• S&H Department (Science & Humanities)\n• CSBS Department"
+    },
+    {
+      "id": 6,
+      "title": "ECE Department - Complete Details",
+      "filename": null,
+      "content": "🔌 Electronics & Communication Engineering (ECE)\n\n📊 Established: 2000 | Intake: 300 (UG), 12 (PG– M.E. Communication Systems)\n🔬 Research Centre: Recognized by Anna University since 2017\n📅 PG Since: 2011 | Regulations: UG 2023, UG 2018, PG 2019\n\n🎯 Vision:\nTo empower ECE students with emerging technologies, professionalism, innovative research and social responsibility.\n\n🎯 Mission:\n• M1 – Academic excellence through innovative teaching & research\n• M2 – Problem-solving & lifelong learning\n• M3 – Entrepreneurial skills & leadership\n• M4 – Faculty technical knowledge\n\n👨‍🏫 HOD: Dr. N. Mahendran, M.E., Ph.D. (Professor & HOD)\n\n🧪 Laboratories (12 Labs):\n• Digital Signal Processing Lab\n• Electronic Circuits Lab\n• Electronics & Microprocessor Lab\n• Engineering Practice Lab\n• Linear Integrated Circuits Lab\n• Microwave & Optical Lab\n• Networks Lab\n• Project Lab\n• Analog & Digital Communication Lab\n• Embedded System Design Lab\n• Research Lab\n• PCB Design Lab\n\n🏛️ Professional Bodies:\n• Eminence Association (ECE Dept. Technical Body)\n• IEEE ComSoc (Communications Society Student Chapter)\n• IETE (Institution of Electronics & Telecommunication Engineers)"
+    },
+    {
+      "id": 7,
+      "title": "CSE Department - Complete Details",
+      "filename": null,
+      "content": "💻 Computer Science & Engineering (CSE)\n\n📊 Established: 2000 | Intake: 180 (UG) + 12 (PG– M.E. CSE)\n🏆 NBA Accredited: Yes — Engineering TIER-I, Washington Accord\n🏆 Award: Teaching Award in Engineering by Staffordshire University, 2015\n🌐 Internet: 24-hour Wi-Fi, 1 Gbps speed\n\n🎯 Vision:\nTo achieve education and research excellence in Computer Science and Engineering.\n\n🎯 Mission:\n• M1 – Excellence in teaching-learning\n• M2 – Research & innovation\n• M3 – Technically competent professionals with social & ethical responsibility\n\n👨‍🏫 HOD: Dr. D. Pradeep, M.E., Ph.D. (Professor & Head)\n👨‍🏫 Principal: Dr. B. S. Murugan (also Professor in CSE)\n\n💼 Known Recruiters: TCS, Wipro, IBM, CTS, Accenture, Infosys, Inautix, PurpleSlate, Infoview, Odessa, Zoho"
+    },
+    {
+      "id": 8,
+      "title": "IT Department - Complete Details",
+      "filename": null,
+      "content": "🖥️ Information Technology (IT)\n\n📊 Established: 2001 | Intake: 120\n🎯 Specialization Areas: Network Security, Data Mining, Cloud Computing, Mobile Computing, Computer Networks, Soft Computing, Evolutionary Computing, Cyber Security, Big Data Analytics, Image Processing\n\n🎯 Vision:\nTo Create Technically Skilled IT Professionals to meet Corporate Expectations and to Address Societal Concerns.\n\n🎯 Mission:\n• M1 – Competency in advanced computing & project-based learning\n• M2 – Industry collaboration for research & consultancy\n• M3 – Entrepreneurial skills for societal benefit\n\n👨‍🏫 HOD: Dr. K. Ravikumar, M.E., Ph.D. (Professor & HOD)\n\n🔬 Research Project:\nDr. S. Geeitha (IT) holds an active SERB CRG-funded research project (₹13.07 Lakh)"
+    },
+    {
+      "id": 9,
+      "title": "EEE Department - Complete Details",
+      "filename": null,
+      "content": "⚡ Electrical & Electronics Engineering (EEE)\n\n📊 Established: 2001–2002 | Intake: 120 (UG), PG– M.E. Power Systems (since 2012–13)\n🔬 Research Centre: Recognized by Anna University since 2017–18\n🧪 Labs: 8 laboratory venues\n💻 Software: MATLAB, Mi-Power, AU Power, ICT Circuit Tool, Labview\n📚 Department Library: 2,226 books + 100 E-journals\n📖 Books Published: 12 by faculty members\n\n🎯 Vision:\nTo produce smart and dynamic professionals with profound theoretical and practical knowledge comparable with the best in the field.\n\n👨‍🏫 HOD: Dr. J. Uma, M.E., Ph.D. (Professor & Head)\n📞 Contact: 8754015677 | Email: eee@mkce.ac.in\n\n🔬 Research Project:\nDr. V. Sivakumar (EEE) holds SERB TARE project worth ₹18.30 Lakh\n\n🏛️ Professional Bodies: ISTE and IEEE Student Chapter"
+    },
+    {
+      "id": 10,
+      "title": "MBA Department - Complete Details",
+      "filename": null,
+      "content": "📊 Master of Business Administration (MBA)\n\n📊 Established: 2007 | Intake: 120\n📜 Regulations: 2015, 2018, 2023\n🎯 Electives: Finance, Marketing, Human Resource, Entrepreneurship\n🎉 Events: JANANAN and IPSUM management meets\n🏢 Infrastructure: Air-conditioned flipped smart classes, separate library & computer centre\n🤝 MoUs: EKARUP, IIMBx, NSE, PUPA, VANAPRASTHA, RJS, EPC\n\n🎯 Vision:\nTo provide excellent management education and produce dynamic, innovative, and creative global executives.\n\n👨‍🏫 HOD: Dr. P. Vanitha, M.Com., MBA, Ph.D. (Associate Professor & HOD)"
+    },
+    {
+      "id": 11,
+      "title": "MCA Department - Complete Details",
+      "filename": null,
+      "content": "💾 Master of Computer Applications (MCA)\n\n📊 Established: 2001 | Intake: 60\n📜 Regulations: 2015, 2018, 2023\n📚 Department Magazine: KOLOZ\n💼 Placements: HashedIn, ZOHO, NXTSYNC (recent 2025 placements)\n\n🎯 Vision:\nTo meet technology and evolve innovative applications for the software industry and promote technological advancement through knowledge dissemination.\n\n👨‍🏫 HOD: Dr. S. Vanithamani, M.C.A., M.Phil., Ph.D. (Associate Professor & HOD)"
+    },
+    {
+      "id": 12,
+      "title": "Mechanical Department - Complete Details",
+      "filename": null,
+      "content": "⚙️ Mechanical Engineering (MECH)\n\n📊 Established: 2000 | Intake: 90\n🤝 MoUs: NITT-Siemens, TVS Upasana, Roots Industries\n🌍 International Collaboration: UTP Universiti Teknologi PETRONAS (Malaysia), Miami University (USA)\n\n🎯 Vision:\nTo create globally recognized competent Mechanical Engineers to work in multicultural environments.\n\n👨‍🏫 HOD: Dr. M. Loganathan, M.E., Ph.D. (Professor & HOD)"
+    },
+    {
+      "id": 13,
+      "title": "Civil Department - Complete Details",
+      "filename": null,
+      "content": "🏗️ Civil Engineering\n\n📊 Established: 2009 | Intake: 30\n🏛️ Professional Body Members: IV, IE, IEEE, ISTE\n🎯 Activities: Consultancy projects, industrial/construction site visits, conferences, workshops, seminars\n\n🎯 Vision:\nTo nurture Civil Engineering professionals with strong technical competence and moral integrity to serve the society and nation.\n\n👨‍🏫 HOD: Dr. Balaji G, M.E., Ph.D. (Associate Professor & Head)"
+    },
+    {
+      "id": 14,
+      "title": "ECE Department - Complete Detailed Information",
+      "filename": null,
+      "content": "🔌 ELECTRONICS & COMMUNICATION ENGINEERING (ECE) - COMPLETE DETAILS\n\n📊 Department Overview:\n• Full Name: Electronics and Communication Engineering\n• Short Name: ECE\n• Established: 2000\n• Current UG Intake: 300 seats\n• PG Programme: M.E. Communication Systems (12 seats, since 2011)\n• Research Centre: Recognized by Anna University since 2017\n• UG Duration: 4 years (Regular) / 3 years (Lateral Entry)\n• UG Semesters: 8 (Regular) / 6 (Lateral Entry)\n• Regulations: UG Regulation 2023, UG Regulation 2018, PG Regulation 2019\n• NRI Quota: Available\n• PIO/FN/GULF/OCI: Not Available\n• HOD: Dr. N. Mahendran, M.E., Ph.D.\n\n🎯 Vision:\nTo empower the Electronics and Communication Engineering students with emerging technologies, professionalism, innovative research and social responsibility.\n\n🎯 Mission:\n• M1: Attain academic excellence through innovative teaching-learning process, research areas, laboratories, and consultancy projects\n• M2: Inculcate students in problem-solving and lifelong learning ability\n• M3: Provide entrepreneurial skills and leadership qualities\n• M4: Render the technical knowledge and skills of faculty members\n\n📋 Program Educational Objectives (PEO):\nPEO1 - Core Competence: Graduates will have a successful career in academia or industry associated with ECE\nPEO2 - Professionalism: Graduates will provide feasible solutions for challenging problems through comprehensive research and innovation\nPEO3 - Lifelong Learning: Graduates will contribute to social needs through lifelong learning, professional ethics, and leadership quality\n\n📋 Program Specific Outcomes (PSO):\nPSO1: Applying knowledge in Electronics, Communications, Signal Processing, VLSI, Embedded Systems in design and implementation of engineering applications\nPSO2: Solving complex ECE problems with analytical and managerial skills using latest hardware and software tools, independently or in teams, to meet industrial expectations\n\n🧪 12 Laboratories:\n1. Digital Signal Processing Laboratory\n2. Electronic Circuits Laboratory\n3. Electronics and Microprocessor Laboratory\n4. Engineering Practice Laboratory\n5. Linear Integrated Circuits Laboratory\n6. Microwave and Optical Laboratory\n7. Networks Laboratory\n8. Project Laboratory\n9. Analog and Digital Communication Laboratory\n10. Embedded System Design Laboratory\n11. Research Laboratory\n12. PCB Design Laboratory\n\n🏛️ Professional Bodies:\n• Eminence Association (ECE Departmental Technical Association)\n• IEEE ComSoc (IEEE Communications Society - Student Chapter)\n• IETE (Institution of Electronics & Telecommunication Engineers)\n\n🎓 Student Activities:\n• TEL Curricula (Technology Enhanced Learning)\n• Minor Projects\n• Industrial Visits\n• Internships (including NIT-level internships)\n• National/International Conferences\n• Hackathons & Make-A-Thons (24-Hour Hackathon, I2H 2.0, HackFest)\n• Alumni Interaction Sessions\n• Web Development Workshops\n• Higher Studies Awareness Programs\n• NPTEL Course Enrollments\n• VAC (Value Added Courses)\n• ECE-JLPT (Japanese Language Proficiency Test)\n\n📊 Intake History:\n2000: 60 → 2005: 120 → 2011: 180 → 2012: 240 → Current: 300\n\n💼 Placement Batches Available: 2012-16 through 2021-25\n\n🏆 Achievements:\n• NIT Internship achievements\n• Students SCI Journal Publications\n• Indian Mobile Congress (IMC) participation\n• Innovators Hackathon (I2H) 2.0\n• Make-A-Thon\n• Internship offer from Axiscades\n• TCS Digital Offer\n• PEGA Best Outgoing Student Award\n• Hackathon Winner & Third Place with Cash Prize\n• Code Battle Winner\n• Best Coding Assistant App award"
+    },
+    {
+      "id": 15,
+      "title": "MKCE Chapter 1 - College Overview",
+      "filename": null,
+      "content": "Full Name: M. Kumarasamy College of Engineering\nShort Name: MKCE\nTagline: The Best Engineering College With 25 Years of Excellence\nLocation: Karur, Tamil Nadu, India\nGPS Coordinates: Latitude 11.055287\nEstablished: 2000\nType: Autonomous Engineering Institution\nAffiliation: Anna University, Chennai\nApproval: AICTE, New Delhi\nTrust: M. Kumarasamy Health and Educational Trust\nTNEA Counselling Code: 2608\nWebsite: https://www.mkce.ac.in\nMaintained By: Technology Innovation Hub - MKCE\nYears of Excellence: 25 years as of 2025"
+    },
+    {
+      "id": 16,
+      "title": "MKCE Chapter 2 - Management and Leadership",
+      "filename": null,
+      "content": "Founder: Thiru M. Kumarasamy, known as Maniyakar, former Munisif of Thalavapalayam village for 20+ years.\nChairman and Secretary: Dr. K. Ramakrishnan, B.E. Production Engineering, Annamalai University.\nExecutive Director: Dr. S. Kuppusamy, B.Sc. Electronics, MBA, Ph.D. Management, NET and SLET qualified.\nPrincipal: Dr. B. S. Murugan, M.E., Ph.D., also Professor in CSE.\nMKCE was founded in 2000 to offer affordable engineering education to rural students."
+    },
+    {
+      "id": 17,
+      "title": "MKCE Chapter 3 - Vision Mission Quality",
+      "filename": null,
+      "content": "Vision: To emerge as a leader among the top institutions in technical education.\nMission: 1) Produce smart technocrats to face global challenges. 2) Create a diverse learner-centric campus for quality education. 3) Maintain partnerships with alumni, industry and professional associations.\nQuality Policy: MKCE commits to developing responsible citizens with ethical values through quality technical education and continual improvement toward world-class technological standards.\nWhy MKCE: Creativity and innovation, student-centric campus, experiential learning, comprehensive teaching."
+    },
+    {
+      "id": 18,
+      "title": "MKCE Chapter 4 - Key Statistics",
+      "filename": null,
+      "content": "Proud Alumni: 15100+\nCurrent Students: 4150+\nPlaced Students: 830+\nTotal Faculty: 280+\nSCIE or Scopus or WoS Publications: 2673+\nUGC Care Journal Publications: 302\nBook or Book Chapter Publications: 125\nh-index: 61 on Google Scholar and 53 on Scopus\nPatents: 715 published and 120 registered\nStudent Publications: 645\nConference Publications: 2530\nTotal Citations in Scopus: 18090+"
+    },
+    {
+      "id": 19,
+      "title": "MKCE Chapter 5 - Contact Information",
+      "filename": null,
+      "content": "Administration Phone: 04324-272155 / 04324-270755\nAdministration Fax: 04324-272457\nAdmission Helpline: 9750356377 / 8754022577\nAdmission Email: admission@mkce.ac.in\nPlacement and Training: 04324-272155 / 04324-270755\nPlacement Email: placement@mkce.ac.in\nEEE HOD Direct: eee@mkce.ac.in / 8754015677\nDean of Admissions: Dr. K. Sundararaju, +91 9750356377 / 7540046077"
+    },
+    {
+      "id": 20,
+      "title": "MKCE Chapter 6 - Accreditation and Rankings",
+      "filename": null,
+      "content": "NAAC: A Grade, Cycle 2\nNBA: Accredited for select programmes including CSE under Washington Accord Tier-I\nAICTE: Approved, New Delhi\nAnna University: Affiliated with Autonomous status\nTCS: Accredited\nNIRF: Ranked (https://mkce.ac.in/nirf.php)\nARIIA: Ranked (https://mkce.ac.in/files/ariia.pdf)\nMBA: IIRF ranked\nStaffordshire University: Teaching Award in Engineering to CSE Department in 2015\nResearch Centres: 6 departments recognized by Anna University"
+    },
+    {
+      "id": 21,
+      "title": "MKCE Chapter 7 - Programmes and Intake",
+      "filename": null,
+      "content": "UG Programmes include B.E. and B.Tech in AI and DS, CSE, CSE AI and ML, Civil, CSBS, EEE, ECE, IT, Mechanical, VLSI, and CSE Cyber Security.\nUG intake highlights: AI and DS 180, CSE 180, ECE 300, EEE 120, IT 120, Mechanical 90, Civil 30, CSE AI and ML 60, CSBS 60, VLSI 60, CSE Cyber Security 60.\nPG Programmes: MBA 120, MCA 60, M.E. CSE 12, Communication Systems 12, Power Systems Engineering 12, Manufacturing Engineering 12."
+    },
+    {
+      "id": 22,
+      "title": "MKCE Chapter 8 - Department Wise Overview",
+      "filename": null,
+      "content": "Departments covered: ECE, CSE, IT, EEE, Mechanical, Civil, VLSI, MBA, MCA, AI and DS, CSE AI and ML, CSBS, and Freshmen Engineering.\nECE established 2000 with UG intake 300 and PG Communication Systems intake 12; 12 labs and recognized research centre.\nCSE established 2000 with NBA Tier-I and Washington Accord recognition; 1 Gbps internet support.\nIT established 2001 with focus areas including Network Security, Cloud, Data Mining, Cyber Security and Big Data.\nEEE has 8 labs and uses MATLAB, Mi-Power, AU Power, ICT Circuit Tool, LabVIEW; recognized research centre.\nMechanical has industry MoUs and international collaborations.\nCivil focuses on core domain competence with professional body engagement.\nVLSI is a recent programme under Regulation 2023 with intake 60 and semiconductor focus.\nMBA and MCA include modern curriculum and placement support."
+    },
+    {
+      "id": 23,
+      "title": "MKCE Chapter 9 - Research and Development",
+      "filename": null,
+      "content": "R and D Cell established in 2012.\n6 departments are recognized as Anna University research centres.\nPh.D. Fellowship: INR 10000 per month for full-time scholars.\nResearch progress review every 6 months.\nFunded projects include SERB CRG INR 13.07 lakh, SERB TARE INR 18.30 lakh, MSME grants INR 28 lakh and INR 48 lakh, TNSCST INR 60000 for 5 projects, and Naan Mudhalvan INR 30000 for 3 projects.\nPublication incentives: Q4 INR 5000, Q3 INR 7500, Q2 INR 10000, Q1 INR 15000, Q1 with impact factor above 10 INR 20000."
+    },
+    {
+      "id": 24,
+      "title": "MKCE Chapter 10 - Placement and Training",
+      "filename": null,
+      "content": "Career Skill Development modules include aptitude, group discussion, interview handling, professional and personality development.\nPlacement infrastructure includes testing halls, conference halls, online test centres, discussion rooms, interview rooms, video conferencing and placement lounge.\nRecent recruiters include Infosys, LTIMindtree, Hexaware, Zoho, TCS, Capgemini, Accenture, Wipro, IBM, CTS and multiple Japan recruiters.\nJapan placement and higher studies opportunities are supported through Sakura Science Program pathways."
+    },
+    {
+      "id": 25,
+      "title": "MKCE Chapter 11 - Center for Foreign Languages",
+      "filename": null,
+      "content": "Language taught: Japanese (Nihongo).\nLevels: N5 or Q5, N4 or Q4, N3 or Q3.\nMKCE is an approved JLPT exam centre and prepares students for JLPT and NAT certifications.\nHistoric JLPT certification counts are available batch-wise from 2013 to 2024."
+    },
+    {
+      "id": 26,
+      "title": "MKCE Chapter 12 - Campus Facilities",
+      "filename": null,
+      "content": "Academic facilities: Smart classrooms, drawing halls, IT labs, engineering labs, Technology Learning Centre and Media Centre.\nLibrary: physical and digital resources with OPAC access at http://10.0.7.150/impreserp/OPAC/Default.aspx.\nAuditoriums and halls: Valluvar Hall, G.D. Naidu Hall, conference halls and media spaces.\nSports: Basketball, tennis, volleyball and 3 fitness centres.\nHostel portal: http://hostel.mkce.ac.in/.\nTransport: city-wide bus fleet, safety features and route file at https://www.mkce.ac.in/hostel/bus_route.pdf."
+    },
+    {
+      "id": 27,
+      "title": "MKCE Chapter 13 - Student Portals and Links",
+      "filename": null,
+      "content": "CAMS: http://www.camsmkce.in\nKR Connect: http://krconnect.mkce.ac.in/\nSmart Hostel: http://hostel.mkce.ac.in/\nTeaching Learning Centre: http://tlc.krgi.in\nLibrary OPAC: http://10.0.7.150/impreserp/OPAC/Default.aspx\nCertificate verification: https://mkce.directverify.in/student/index.html\nBlog: http://mkce.ac.in/blog\nAlumni portal: http://alumni.mkce.ac.in/\nAdmission form: https://forms.gle/EGoB193DkB9tu3ts8\nFee payment via Axis EasyPay with separate links for new and existing students."
+    },
+    {
+      "id": 28,
+      "title": "MKCE Chapter 14 - Alumni Testimonials",
+      "filename": null,
+      "content": "Alumni testimonials mention strong academic foundations, mentoring support, practical curriculum, and effective placement support.\nReferenced alumni include leaders from Oracle Cerner Healthcare, State Street Corporation, Prodrive Technologies Japan, and NASSCOM roles."
+    },
+    {
+      "id": 29,
+      "title": "MKCE Chapter 15 - Campus Block Layout",
+      "filename": null,
+      "content": "MKCE campus has two main academic blocks: Dr. APJ Abdul Kalam Block and Dr. S. Radhakrishnan Block.\n\nDr. APJ Abdul Kalam Block floors:\nGround Floor - CSE\nFirst Floor - EEE\nSecond Floor - ECE\nThird Floor - CSBS\n\nDr. S. Radhakrishnan Block floors:\nGround Floor - Civil Engineering\nFirst Floor - Mechanical Engineering and MBA\nSecond Floor - IT\nThird Floor - AIDS and AIML"
+    },
+    {
+      "id": 30,
+      "title": "MKCE Chapter 16 - ECE Department Layout",
+      "filename": null,
+      "content": "ECE department is located on the Second Floor of Dr. APJ Abdul Kalam Block.\n\nClassrooms:\nRoom 202 - II ECE A\nRoom 203 - II ECE B\nRoom 204 - II ECE C\nRoom 208 - II ECE D\nRoom 209 - II VLSI\nRoom 210 - III ECE A\nRoom 211 - III ECE B\nRoom 213 - III ECE C\nRoom 214 - III ECE D\nRoom 224 - III ECE B\nRoom 225 - III ECE A\nRoom 215 - IV ECE A\nRoom 222 - IV ECE B\nRoom 232 - IV ECE C\nRoom 229 - IV ECE D\n\nStaff Rooms:\nRoom 205 - ECE Staff Room 1\nRoom 212 - ECE Staff Room 2\nRoom 230 - ECE Staff Room 3\n\nHOD Cabin:\nRoom 239 - ECE HOD Cabin\nHOD: Mr. Mahendran\n\nLaboratories:\nRoom 201 - Optical and Microwave Lab\nRoom 207 - Embedded System Design Lab\nRoom 217 - DSP Lab\nRoom 227 - Electronics and Microprocessors Lab\nRoom 228 - Electronic Circuits Lab (VLSI)\nRoom 231 - Analog and Digital Communication Lab\nRoom 233 - Electronic Circuits Laboratory\nRoom 234 - LIC Lab\nRoom 235 - Project Lab\nRoom 238 - PCB Design Lab\n\nOther facilities:\nRoom 218 - ECE Board Room\nOpposite Room 218 - RO Water Tank\nRoom 226 - ECE Record Room\nRoom 236 - Server Room\nRoom 237 - ECE Library\n\nUtilities:\nRoom 223 - Boys Washroom\nRoom 224 - Boys Common Room\nRoom 225 - Gents Staff Washroom\nOpposite Room 209 - RO Drinking Water\nOpposite Room 232 - RO Drinking Water\nOpposite Room 202 - Lift Available\nFire Extinguisher Available\n\nSpecial Cell:\nRoom 216 - Women Empowerment Cell"
+    }
+  ]
+}

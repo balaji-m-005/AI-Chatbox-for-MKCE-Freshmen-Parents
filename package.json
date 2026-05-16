@@ -1,0 +1,16 @@
+{
+  "name": "campus-ai-assistant",
+  "version": "1.0.0",
+  "description": "Modern web interface for college campus AI chatbot",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server --port=3000",
+    "dev": "npx live-server --port=3000 --open"
+  },
+  "keywords": ["chatbot", "web", "ui", "college"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

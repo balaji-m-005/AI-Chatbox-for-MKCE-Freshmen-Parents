@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft Copilot - Chat</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="copilot-chat">
+    <button id="sidebar-toggle" class="sidebar-toggle-btn">
+        <i class="fas fa-bars"></i>
+    </button>
+    
+    <div class="sidebar" id="sidebar">
+        <!-- Logo Section -->
+        <div class="sidebar-logo">
+            <img src="/static/images/logo.png" alt="Logo" class="logo-image" onerror="this.style.display='none'">
+            <h3 class="logo-text">AI Chatbot</h3>
+        </div>
+
+        <!-- New Chat Button -->
+        <button class="new-chat-btn" id="new-chat-btn">
+            <i class="fas fa-plus"></i>
+            <span>New Chat</span>
+        </button>
+
+        <!-- Chat History -->
+        <div class="chat-history-section">
+            <div class="section-header">
+                <i class="fas fa-history"></i>
+                <span>Recent Chats</span>
+            </div>
+            <div class="chat-history-list" id="chat-history-list">
+                <!-- Chat history items will be dynamically added here -->
+            </div>
+        </div>
+
+        <!-- User/Admin Login Section -->
+        <div class="sidebar-footer">
+            <div class="user-info" id="user-info">
+                <div class="user-avatar">
+                    <i class="fas fa-user-circle"></i>
+                </div>
+                <div class="user-details">
+                    <span class="user-name" id="user-name">Guest</span>
+                    <span class="user-role" id="user-role">Visitor</span>
+                </div>
+            </div>
+            <button class="login-btn" id="login-btn">
+                <i class="fas fa-sign-in-alt"></i>
+                <span>Login</span>
+            </button>
+            <button class="logout-btn d-none" id="logout-btn">
+                <i class="fas fa-sign-out-alt"></i>
+                <span>Logout</span>
+            </button>
+        </div>
+    </div>
+    <div class="main-content">
+        <div class="chat-container">
+            <div id="chat-messages" class="chat-messages">
+                <!-- Messages will be appended here -->
+            </div>
+            <div id="typing-indicator" class="typing-indicator d-none">
+                <div class="typing-dots">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <small class="text-muted">Copilot is thinking...</small>
+            </div>
+            <div class="input-container">
+                <div class="input-group">
+                    <span class="input-group-text"><i class="fas fa-plus"></i></span>
+                    <select class="form-select mode-select">
+                        <option>Smart</option>
+                        <option>Creative</option>
+                        <option>Balanced</option>
+                    </select>
+                    <input type="text" id="message-input" class="form-control" placeholder="Message Copilot">
+                    <button class="btn btn-outline-secondary" id="voice-btn"><i class="fas fa-microphone"></i></button>
+                    <button class="btn btn-primary" id="send-btn"><i class="fas fa-arrow-up"></i></button>
+                </div>
+            </div>
+        </div>
+        <button id="dark-mode-toggle" class="btn btn-sm btn-outline-secondary position-fixed top-0 end-0 m-3 z-index-999"><i class="fas fa-moon"></i></button>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="static/js/chat.js"></script>
+    <script src="static/js/copilot.js"></script>
+</body>
+</html>

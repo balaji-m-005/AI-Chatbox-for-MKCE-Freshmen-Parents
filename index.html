@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft Copilot</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="copilot-home">
+    <div class="sidebar">
+        <div class="sidebar-icon active"><i class="fas fa-home"></i></div>
+        <div class="sidebar-icon"><i class="fas fa-comment"></i></div>
+        <div class="sidebar-icon"><i class="fas fa-history"></i></div>
+        <div class="sidebar-icon"><i class="fas fa-cog"></i></div>
+    </div>
+    <div class="main-content">
+        <div class="container-fluid d-flex flex-column justify-content-center align-items-center vh-100">
+            <div class="text-center mb-5">
+                <h1 class="display-4 mb-4">Hey, what's up?</h1>
+                <div class="input-container">
+                    <div class="input-group">
+                        <span class="input-group-text"><i class="fas fa-plus"></i></span>
+                        <select class="form-select mode-select">
+                            <option>Smart</option>
+                            <option>Creative</option>
+                            <option>Balanced</option>
+                        </select>
+                        <input type="text" id="message-input" class="form-control" placeholder="Message Copilot">
+                        <button class="btn btn-outline-secondary" id="voice-btn"><i class="fas fa-microphone"></i></button>
+                        <button class="btn btn-primary" id="send-btn"><i class="fas fa-arrow-up"></i></button>
+                    </div>
+                </div>
+                <div class="suggestions mt-4">
+                    <button class="btn btn-outline-primary suggestion-btn">Create an image</button>
+                    <button class="btn btn-outline-primary suggestion-btn">Simplify a topic</button>
+                    <button class="btn btn-outline-primary suggestion-btn">Improve writing</button>
+                    <button class="btn btn-outline-primary suggestion-btn">Take a quiz</button>
+                    <button class="btn btn-outline-primary suggestion-btn">Design a logo</button>
+                    <button class="btn btn-outline-primary suggestion-btn">Build a playlist</button>
+                    <button class="btn btn-outline-primary suggestion-btn">Draft an email</button>
+                    <button class="btn btn-outline-primary suggestion-btn">Draft a reply</button>
+                </div>
+            </div>
+        </div>
+        <button id="dark-mode-toggle" class="btn btn-sm btn-outline-secondary position-fixed top-0 end-0 m-3"><i class="fas fa-moon"></i></button>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="static/js/copilot.js"></script>
+</body>
+</html>

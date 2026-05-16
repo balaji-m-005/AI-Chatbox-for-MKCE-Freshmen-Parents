@@ -1,0 +1,733 @@
+{
+  "college": {
+    "name": "M. Kumarasamy College of Engineering",
+    "short_name": "MKCE",
+    "tagline": "The Best Engineering College With 25 Years of Excellence",
+    "location": "Karur, Tamil Nadu, India",
+    "established": 2000,
+    "type": "Autonomous Engineering Institution",
+    "affiliation": "Anna University, Chennai",
+    "approval": "AICTE, New Delhi",
+    "website": "https://www.mkce.ac.in",
+    "tnea_code": "2608",
+    "principal": "Dr. B. S. Murugan",
+    "chairman": "Dr. K. Ramakrishnan",
+    "executive_director": "Dr. S. Kuppusamy",
+    "contact": {
+      "admin_phone": [
+        "04324-272155",
+        "04324-270755"
+      ],
+      "admission_helpline": [
+        "9750356377",
+        "8754022577"
+      ],
+      "admission_email": "admission@mkce.ac.in",
+      "placement_email": "placement@mkce.ac.in"
+    }
+  },
+
+  "blocks": [
+    {
+      "block_id": "APJ",
+      "name": "APJ Abdul Kalam Block",
+      "floors": 4,
+      "departments": {
+        "ground_floor": [
+          "CSE"
+        ],
+        "first_floor": [
+          "EEE"
+        ],
+        "second_floor": [
+          "ECE"
+        ],
+        "third_floor": [
+          "CSBS"
+        ]
+      },
+      "facilities": [
+        {
+          "name": "Chairman Office",
+          "floor": "Ground Floor"
+        },
+        {
+          "name": "Trust Office",
+          "floor": "Ground Floor"
+        },
+        {
+          "name": "Principal Office",
+          "floor": "First Floor"
+        },
+        {
+          "name": "Administrative Office",
+          "floor": "First Floor"
+        },
+        {
+          "name": "Placement Cell",
+          "floor": "First Floor"
+        },
+        {
+          "name": "Admission Office",
+          "floor": "First Floor"
+        },
+        {
+          "name": "Library",
+          "floor": "Ground Floor"
+        },
+        {
+          "name": "Women Empowerment Cell",
+          "floor": "Second Floor"
+        },
+        {
+          "name": "Technology Innovation Hub",
+          "floor": "Third Floor"
+        }
+      ]
+    },
+
+    {
+      "block_id": "RK",
+      "name": "Dr. S. Radhakrishnan Block",
+      "floors": 4,
+      "departments": {
+        "ground_floor": [
+          "Civil Engineering"
+        ],
+        "first_floor": [
+          "Mechanical Engineering",
+          "MBA"
+        ],
+        "second_floor": [
+          "IT"
+        ],
+        "third_floor": [
+          "AIDS",
+          "AIML"
+        ]
+      },
+      "facilities": [
+        {
+          "name": "Executive Director Office",
+          "floor": "Ground Floor"
+        },
+        {
+          "name": "PG Library",
+          "floor": "Ground Floor"
+        },
+        {
+          "name": "Seminar Hall",
+          "floor": "Second Floor"
+        }
+      ]
+    }
+  ],
+
+  "departments": [
+    {
+      "department_id": "ECE",
+      "name": "Electronics and Communication Engineering",
+      "block": "APJ Abdul Kalam Block",
+      "floor": "Second Floor",
+      "hod": {
+        "name": "Dr. N. Mahendran",
+        "room": "239"
+      },
+
+      "classrooms": [
+        {
+          "room_no": "202",
+          "name": "II ECE A",
+          "keywords": [
+            "2nd year ece a",
+            "ii ece a"
+          ]
+        },
+        {
+          "room_no": "203",
+          "name": "II ECE B"
+        },
+        {
+          "room_no": "204",
+          "name": "II ECE C"
+        },
+        {
+          "room_no": "208",
+          "name": "II ECE D"
+        },
+        {
+          "room_no": "209",
+          "name": "II VLSI"
+        },
+        {
+          "room_no": "210",
+          "name": "III ECE A"
+        },
+        {
+          "room_no": "211",
+          "name": "III ECE B"
+        },
+        {
+          "room_no": "213",
+          "name": "III ECE C"
+        },
+        {
+          "room_no": "214",
+          "name": "III ECE D"
+        },
+        {
+          "room_no": "215",
+          "name": "IV ECE A"
+        },
+        {
+          "room_no": "222",
+          "name": "IV ECE B"
+        },
+        {
+          "room_no": "232",
+          "name": "IV ECE C"
+        },
+        {
+          "room_no": "229",
+          "name": "IV ECE D"
+        }
+      ],
+
+      "staff_rooms": [
+        {
+          "room_no": "205",
+          "name": "ECE Staff Room 1",
+          "staff": [
+            "Mrs. S. Sivaranjani",
+            "Mrs. Sentamil Selvi",
+            "Mrs. Saranya",
+            "Mrs. Induja",
+            "Mr. Arunkumar",
+            "Mr. Sivakumar",
+            "Mrs. Mercy",
+            "Mr. Ramesh"
+          ]
+        },
+
+        {
+          "room_no": "212",
+          "name": "ECE Staff Room 2",
+          "staff": [
+            "Mrs. S. Sivaranjani",
+            "Mrs. Sentamil Selvi",
+            "Mrs. Saranya",
+            "Mrs. Induja",
+            "Mr. Arunkumar",
+            "Mr. Sivakumar",
+            "Mrs. Mercy",
+            "Mr. Ramesh"
+          ]
+        },
+
+        {
+          "room_no": "230",
+          "name": "ECE Staff Room 3",
+          "staff": [
+            "Mr. Senthil Kumar",
+            "Mr. Sivagurunathan",
+            "Mr. Arul"
+          ]
+        }
+      ],
+
+      "labs": [
+        {
+          "room_no": "201",
+          "name": "Optical and Microwave Lab",
+          "aliases": [
+            "microwave lab",
+            "optical lab"
+          ],
+          "incharge": "Mrs. Revathi",
+          "phone": "9965569714",
+          "email": "revathig.ece@mkce.ac.in"
+        },
+
+        {
+          "room_no": "207",
+          "name": "Embedded System Design Lab",
+          "aliases": [
+            "embedded lab",
+            "esd lab"
+          ],
+          "incharge": "Mr. Mohanraj",
+          "phone": "9976775159",
+          "email": "mohanrajs.ece@mkce.ac.in"
+        },
+
+        {
+          "room_no": "217",
+          "name": "DSP Lab",
+          "aliases": [
+            "digital signal processing lab",
+            "signal processing lab"
+          ],
+          "incharge": "Mr. JeyaKumar P",
+          "phone": "9994723025",
+          "email": "jeyakumarp.ece@mkce.ac.in",
+          "staff": [
+            "Mr. JeyaKumar P",
+            "Ms. Sakthi",
+            "Ms. Kavitha S"
+          ]
+        },
+
+        {
+          "room_no": "227",
+          "name": "Electronics and Microprocessors Lab",
+          "aliases": [
+            "microprocessor lab",
+            "mpmc lab"
+          ],
+          "incharge": "Mr. Jagatheesan K",
+          "phone": "9487634585",
+          "email": "jagatheesan.ece@mkce.ac.in"
+        },
+
+        {
+          "room_no": "228",
+          "name": "Electronic Circuits Lab VLSI",
+          "aliases": [
+            "vlsi lab"
+          ]
+        },
+
+        {
+          "room_no": "231",
+          "name": "Analog and Digital Communication Lab",
+          "aliases": [
+            "communication lab",
+            "adc lab"
+          ],
+          "incharge": "Mr. Meivel",
+          "phone": "9003713212",
+          "email": "meivels.ece@mkce.ac.in"
+        },
+
+        {
+          "room_no": "233",
+          "name": "Electronic Circuits Laboratory",
+          "aliases": [
+            "ecl lab"
+          ],
+          "incharge": "Mr. Sheikdavood",
+          "phone": "9865314886",
+          "email": "sheikdavood.ece@mkce.ac.in"
+        },
+
+        {
+          "room_no": "234",
+          "name": "LIC Lab",
+          "aliases": [
+            "linear integrated circuits lab"
+          ],
+          "incharge": "Mrs. Sridevi",
+          "phone": "7540087177",
+          "email": "sridevia.ece@mkce.ac.in"
+        },
+
+        {
+          "room_no": "235",
+          "name": "Project Lab",
+          "incharge": "Mr. Nandagopal",
+          "phone": "9003327363",
+          "email": "nandagopalc.ece@mkce.ac.in"
+        },
+
+        {
+          "room_no": "238",
+          "name": "PCB Design Lab",
+          "aliases": [
+            "pcb lab"
+          ],
+          "incharge": "Mr. Karthikeyan",
+          "phone": "9944477213",
+          "email": "karthikeyank.ece@mkce.ac.in"
+        }
+      ],
+
+      "facilities": [
+        {
+          "room_no": "218",
+          "name": "ECE Board Room"
+        },
+        {
+          "room_no": "226",
+          "name": "ECE Record Room"
+        },
+        {
+          "room_no": "236",
+          "name": "Server Room"
+        },
+        {
+          "room_no": "237",
+          "name": "ECE Library",
+          "staff": [
+            "Mr. Sundarapandi"
+          ]
+        }
+      ],
+
+      "utilities": [
+        {
+          "room_no": "223",
+          "name": "Boys Washroom"
+        },
+        {
+          "room_no": "224",
+          "name": "Boys Common Room"
+        },
+        {
+          "room_no": "225",
+          "name": "Gents Staff Washroom"
+        },
+        {
+          "location": "Opposite Room 209",
+          "name": "RO Drinking Water"
+        },
+        {
+          "location": "Opposite Room 232",
+          "name": "RO Drinking Water"
+        },
+        {
+          "location": "Opposite Room 202",
+          "name": "Lift"
+        }
+      ],
+
+      "special_cells": [
+        {
+          "room_no": "216",
+          "name": "Women Empowerment Cell",
+          "staff": [
+            "Mrs. Pushpalatha",
+            "Mrs. Rakha Sudha",
+            "Mrs. Vaidegi"
+          ]
+        }
+      ]
+    },
+
+    {
+      "department_id": "EEE",
+      "name": "Electrical and Electronics Engineering",
+      "block": "APJ Abdul Kalam Block",
+      "floor": "First Floor",
+      "hod": "Dr. J. Uma",
+      "classrooms": [
+        {
+          "room_no": "220",
+          "name": "II EEE A"
+        },
+        {
+          "room_no": "221",
+          "name": "II EEE B"
+        }
+      ],
+      "staff_rooms": [
+        {
+          "room_no": "219",
+          "name": "EEE Staff Room 3"
+        }
+      ]
+    },
+
+    {
+      "department_id": "CSE",
+      "name": "Computer Science and Engineering",
+      "block": "APJ Abdul Kalam Block",
+      "floor": "Ground Floor"
+    },
+
+    {
+      "department_id": "CSBS",
+      "name": "Computer Science and Business Systems",
+      "block": "APJ Abdul Kalam Block",
+      "floor": "Third Floor"
+    },
+
+    {
+      "department_id": "IT",
+      "name": "Information Technology",
+      "block": "RK Block",
+      "floor": "Second Floor"
+    },
+
+    {
+      "department_id": "MECH",
+      "name": "Mechanical Engineering",
+      "block": "RK Block",
+      "floor": "First Floor"
+    },
+
+    {
+      "department_id": "MBA",
+      "name": "Master of Business Administration",
+      "block": "RK Block",
+      "floor": "First Floor"
+    },
+
+    {
+      "department_id": "CIVIL",
+      "name": "Civil Engineering",
+      "block": "RK Block",
+      "floor": "Ground Floor"
+    },
+
+    {
+      "department_id": "AIDS",
+      "name": "Artificial Intelligence and Data Science",
+      "block": "RK Block",
+      "floor": "Third Floor"
+    },
+
+    {
+      "department_id": "AIML",
+      "name": "Artificial Intelligence and Machine Learning",
+      "block": "RK Block",
+      "floor": "Third Floor"
+    }
+  ],
+
+  "campus_facilities": [
+    {
+      "name": "Security Office",
+      "location_id": 1
+    },
+    {
+      "name": "Cafeteria",
+      "location_id": 11
+    },
+    {
+      "name": "Medical Centre",
+      "block": "APJ Block",
+      "floor": "Ground Floor"
+    },
+    {
+      "name": "Library",
+      "block": "APJ Block",
+      "floor": "Ground Floor"
+    },
+    {
+      "name": "SBI ATM",
+      "location_id": 16
+    },
+    {
+      "name": "Axis ATM",
+      "location_id": 26
+    }
+  ],
+
+  "sports_facilities": [
+    "Basketball Court",
+    "Tennis Court",
+    "Volleyball Court",
+    "Kabaddi Court",
+    "Cricket Practice Net",
+    "Ball Badminton Court",
+    "Kho Kho Court"
+  ],
+
+  "hostel": {
+    "boys_mess_timing": {
+      "working_days": {
+        "breakfast": "06:45 AM - 08:25 AM",
+        "lunch": "12:10 PM - 02:00 PM",
+        "snacks": "04:45 PM - 06:00 PM",
+        "dinner": "06:45 PM - 07:50 PM"
+      },
+      "holidays": {
+        "breakfast": "06:45 AM - 09:30 AM",
+        "lunch": "12:10 PM - 02:30 PM",
+        "snacks": "04:45 PM - 06:00 PM",
+        "dinner": "06:45 PM - 07:50 PM"
+      }
+    }
+  },
+
+  "cafeteria": {
+    "name": "Relax Cafeteria",
+    "menu": {
+      "milkshakes": [
+        {
+          "item": "Chocolate",
+          "price": 30
+        },
+        {
+          "item": "Rosemilk",
+          "price": 30
+        },
+        {
+          "item": "Pista",
+          "price": 30
+        },
+        {
+          "item": "Strawberry",
+          "price": 30
+        },
+        {
+          "item": "Butterscotch",
+          "price": 30
+        }
+      ],
+      "fresh_juices": [
+        {
+          "item": "Lemon Juice",
+          "price": 20
+        },
+        {
+          "item": "Watermelon Juice",
+          "price": 25
+        },
+        {
+          "item": "Musk Melon Juice",
+          "price": 35
+        }
+      ]
+    }
+  },
+
+  "canteen": {
+    "name": "Charu Cafe",
+    "popular_items": [
+      {
+        "item": "Chicken Burger",
+        "price": 70
+      },
+      {
+        "item": "Egg Burger",
+        "price": 60
+      },
+      {
+        "item": "Veg Burger",
+        "price": 50
+      },
+      {
+        "item": "Chicken Sandwich",
+        "price": 60
+      },
+      {
+        "item": "Veg Sandwich",
+        "price": 40
+      }
+    ]
+  },
+
+  "portals": [
+    {
+      "name": "CAMS",
+      "url": "http://www.camsmkce.in",
+      "purpose": "Exam and Curriculum"
+    },
+    {
+      "name": "KR Connect",
+      "url": "http://krconnect.mkce.ac.in/",
+      "purpose": "Academic Portal"
+    },
+    {
+      "name": "Hostel Portal",
+      "url": "http://hostel.mkce.ac.in/"
+    },
+    {
+      "name": "Library OPAC",
+      "url": "http://10.0.7.150/impreserp/OPAC/Default.aspx"
+    }
+  ],
+
+  "bonafide_procedure": {
+    "email": "bonafide@mkce.ac.in",
+    "required_fields": [
+      "Name",
+      "Roll Number",
+      "Father Name",
+      "Counselling or Management",
+      "First Graduate",
+      "Hostel or Day Scholar",
+      "Bus Stop",
+      "Purpose of Bonafide",
+      "Scholarship Details",
+      "Bank Name",
+      "Branch",
+      "IFSC Code",
+      "Bank District"
+    ]
+  },
+
+  "semantic_keywords": {
+    "dsp lab": [
+      "digital signal processing lab",
+      "signal processing lab",
+      "room 217"
+    ],
+
+    "ece hod cabin": [
+      "hod room",
+      "mahendran room",
+      "ece hod office",
+      "room 239"
+    ],
+
+    "embedded lab": [
+      "embedded system design lab",
+      "esd lab",
+      "room 207"
+    ],
+
+    "pcb lab": [
+      "pcb design lab",
+      "room 238"
+    ],
+
+    "lic lab": [
+      "linear integrated circuits lab",
+      "room 234"
+    ],
+
+    "ece library": [
+      "department library",
+      "room 237"
+    ]
+  },
+
+  "sample_queries": [
+    {
+      "question": "Where is DSP Lab?",
+      "answer": "DSP Lab is located in Room 217, ECE Department, APJ Abdul Kalam Block, Second Floor."
+    },
+
+    {
+      "question": "Where is ECE HOD cabin?",
+      "answer": "ECE HOD Cabin is located in Room 239, APJ Abdul Kalam Block, Second Floor."
+    },
+
+    {
+      "question": "Where is Embedded Lab?",
+      "answer": "Embedded System Design Lab is located in Room 207, ECE Department, APJ Block."
+    },
+
+    {
+      "question": "Where is RO water near ECE?",
+      "answer": "RO drinking water is available opposite Room 209 and opposite Room 232."
+    },
+
+    {
+      "question": "Where is lift in APJ block?",
+      "answer": "Lift is available opposite Room 202 in ECE Department."
+    }
+  ],
+
+  "sources": [
+    "MKCE_FULL_DATA.pdf",
+    "COLLEGE BLOCK DETAILS.pdf",
+    "Cafe menu details.pdf",
+    "Canteen menu details.pdf",
+    "college mess timing details.pdf",
+    "MKCE COLLEGE LAYOUT details.pdf",
+    "Bonafide certificate apply procedure.pdf"
+  ]
+}
